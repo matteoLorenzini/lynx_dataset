@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<places>
+  <place>
+    <place_id>1</place_id>
+    <place_name>Sperlonga</place_name>
+    <coordinates>41.25837 13.43351</coordinates>
+    <site_id>1</site_id>
+    <site_name>Villa di Tiberio</site_name>
+    <site_coordinates>41.251064 13.45011</site_coordinates>
+  </place>
+  <place>
+    <place_id>2</place_id>
+    <place_name>Sabaudia</place_name>
+    <coordinates>41.30023 13.02802</coordinates>
+    <site_id>2</site_id>
+    <site_name>Villa di Domiziano</site_name>
+    <site_coordinates>41.26553 13.04268</site_coordinates>
+  </place>
+</places>

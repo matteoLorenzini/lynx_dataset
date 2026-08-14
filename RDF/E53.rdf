@@ -1,0 +1,46 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:geo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:lynx="http://www.lynx.com/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2">
+    <crm:P89_falls_within>
+      <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/2">
+        <crm:P168_place_is_defined_by>41.26553 13.04268</crm:P168_place_is_defined_by>
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-site/2/2/Villa%20di%20Domiziano">
+            <rdfs:label>Villa di Domiziano</rdfs:label>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+      </crm:E53_Place>
+    </crm:P89_falls_within>
+    <crm:P168_place_is_defined_by>41.30023 13.02802</crm:P168_place_is_defined_by>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2/Sabaudia">
+        <skos:prefLabel>Sabaudia</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1">
+    <crm:P89_falls_within>
+      <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1">
+        <crm:P168_place_is_defined_by>41.251064 13.45011</crm:P168_place_is_defined_by>
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1/1/Villa%20di%20Tiberio">
+            <rdfs:label>Villa di Tiberio</rdfs:label>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+      </crm:E53_Place>
+    </crm:P89_falls_within>
+    <crm:P168_place_is_defined_by>41.25837 13.43351</crm:P168_place_is_defined_by>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1/Sperlonga">
+        <skos:prefLabel>Sperlonga</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+  </crm:E53_Place>
+</rdf:RDF>
