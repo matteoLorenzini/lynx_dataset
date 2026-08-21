@@ -10,7 +10,14 @@
   <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2">
     <crm:P89_falls_within>
       <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/2">
-        <crm:P168_place_is_defined_by>41.26553 13.04268</crm:P168_place_is_defined_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-place/site"/>
+        </crm:P2_has_type>
+        <crm:P168_place_is_defined_by>
+          <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.26553%2013.04268">
+            <rdfs:label>41.26553 13.04268</rdfs:label>
+          </rdfs:Literal>
+        </crm:P168_place_is_defined_by>
         <crm:P1_is_identified_by>
           <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-site/2/2/Villa%20di%20Domiziano">
             <rdfs:label>Villa di Domiziano</rdfs:label>
@@ -18,17 +25,29 @@
         </crm:P1_is_identified_by>
       </crm:E53_Place>
     </crm:P89_falls_within>
-    <crm:P168_place_is_defined_by>41.30023 13.02802</crm:P168_place_is_defined_by>
+    <crm:P168_place_is_defined_by>
+      <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.30023%2013.02802">
+        <rdfs:label>41.30023 13.02802</rdfs:label>
+      </rdfs:Literal>
+    </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2/Sabaudia">
         <skos:prefLabel>Sabaudia</skos:prefLabel>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-place/place"/>
+    </crm:P2_has_type>
   </crm:E53_Place>
   <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1">
     <crm:P89_falls_within>
       <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1">
-        <crm:P168_place_is_defined_by>41.251064 13.45011</crm:P168_place_is_defined_by>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/site"/>
+        <crm:P168_place_is_defined_by>
+          <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.251064%2013.45011">
+            <rdfs:label>41.251064 13.45011</rdfs:label>
+          </rdfs:Literal>
+        </crm:P168_place_is_defined_by>
         <crm:P1_is_identified_by>
           <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1/1/Villa%20di%20Tiberio">
             <rdfs:label>Villa di Tiberio</rdfs:label>
@@ -36,11 +55,16 @@
         </crm:P1_is_identified_by>
       </crm:E53_Place>
     </crm:P89_falls_within>
-    <crm:P168_place_is_defined_by>41.25837 13.43351</crm:P168_place_is_defined_by>
+    <crm:P168_place_is_defined_by>
+      <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.25837%2013.43351">
+        <rdfs:label>41.30023 13.02802</rdfs:label>
+      </rdfs:Literal>
+    </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1/Sperlonga">
         <skos:prefLabel>Sperlonga</skos:prefLabel>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/place"/>
   </crm:E53_Place>
 </rdf:RDF>

@@ -19,12 +19,13 @@
         <Diameter />
         <State_of_preservation>Buone</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
         <Chronology>N/A</Chronology>
-        <Bibliography />
+        <Bibliography> TEST bibliografia </Bibliography>
         <Description>Si conservano buone tracce policromia (blu scuro) a separare le ciocche. Grandi ciocche, probabilmente pertinenti Polifemo</Description>
         <Stylistic_notes />
         <Status>Non Integro</Status>
@@ -48,7 +49,8 @@
         <Diameter />
         <State_of_preservation>Buone</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
@@ -74,7 +76,8 @@
         <Diameter />
         <State_of_preservation>Buone</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
@@ -100,7 +103,8 @@
         <Diameter />
         <State_of_preservation>Buone</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
@@ -128,7 +132,8 @@
         <Diameter />
         <State_of_preservation>Buone</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
@@ -154,7 +159,8 @@
         <Diameter />
         <State_of_preservation>Molto rovinato</State_of_preservation>
         <Provenance>N/A</Provenance>
-        <Place_of_discovery>Sperlonga</Place_of_discovery>
+        <Place_of_discovery>1</Place_of_discovery>
+        <Site_of_discovery>1</Site_of_discovery>
         <Date_of_discovery>N/A</Date_of_discovery>
         <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
         <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
