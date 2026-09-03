@@ -11,6 +11,26 @@
     xmlns:archeo="http://www.ics.forth.gr/isl/CRMarchaeo/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <base:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237">
+    <base:P12i_was_present_at>
+      <base:E7_Activity rdf:about="urn:uuid:d72ac70e-3c33-4479-a4d5-15d982ffdd01">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/date-discovery/N/A">
+            <base:P2_has_type>
+              <base:E55_Type rdf:about="http://www.lynx.com/resource/date_of_discovery"/>
+            </base:P2_has_type>
+            <rdfs:label>N/A</rdfs:label>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P12i_was_present_at>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="http://www.lynx.com/resource/status"/>
+        </base:P2_has_type>
+        <rdfs:label>Non Integro</rdfs:label>
+      </base:E55_Type>
+    </base:P2_has_type>
     <base:P2_has_type>
       <base:E55_Type rdf:about="http://www.lynx.com/resource/archaeological-object"/>
     </base:P2_has_type>
@@ -33,11 +53,6 @@
         <rdfs:label>17,7</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
     <base:P2_has_type>
       <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/type/Frammento%20di%20panneggio">
         <base:P2_has_type>
@@ -53,14 +68,6 @@
         </base:P2_has_type>
       </base:E53_Place>
     </base:P53_has_former_or_current_location>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50237">
-        <base:P2_has_type>
-          <base:E55_Type rdf:about="http://www.lynx.com/resource/provenance"/>
-        </base:P2_has_type>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E53_Place>
-    </base:P53_has_former_or_current_location>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/dimension/lenght/9%2C3">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -70,6 +77,11 @@
         <rdfs:label>9,3</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
+    <base:P45_consists_of>
+      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo">
+        <rdfs:label>Marmo</rdfs:label>
+      </base:E57_Material>
+    </base:P45_consists_of>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/box-location/22.n561.-1.0.1%20%E2%80%9CFrammenti%20non%20ricomponibili%20%E2%80%93%20Polifemo%3F%E2%80%9D">
         <base:P2_has_type>
@@ -81,31 +93,6 @@
     <base:P129i_is_subject_of>
       <base:E73_Information_Object rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/bibliography"/>
     </base:P129i_is_subject_of>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/manifacturing-marks/N/A">
-        <base:P2_has_type>
-          <base:E55_Type rdf:about="http://www.lynx.com/resource/manifacturing-marks"/>
-        </base:P2_has_type>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
-    <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:c93038b4-ca4c-49b6-af50-4d2a2336d4df">
-        <base:P4_has_time-span>
-          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/date-discovery/N/A">
-            <base:P2_has_type>
-              <base:E55_Type rdf:about="http://www.lynx.com/resource/date_of_discovery"/>
-            </base:P2_has_type>
-            <rdfs:label>N/A</rdfs:label>
-          </base:E52_Time-Span>
-        </base:P4_has_time-span>
-      </base:E7_Activity>
-    </base:P12i_was_present_at>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/state-of-preservation/Molto%20rovinato">
-        <rdfs:label>Molto rovinato</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
     <base:P53_has_former_or_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1">
         <base:P2_has_type>
@@ -113,14 +100,19 @@
         </base:P2_has_type>
       </base:E53_Place>
     </base:P53_has_former_or_current_location>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/status/Non%20Integro">
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Molto%20rovinato">
+        <rdfs:label>Molto rovinato</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P56_bears_feature>
+      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A">
         <base:P2_has_type>
-          <base:E55_Type rdf:about="http://www.lynx.com/resource/status"/>
+          <base:E55_Type rdf:about="http://www.lynx.com/resource/manifacturing-marks"/>
         </base:P2_has_type>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
+        <rdfs:label>N/A</rdfs:label>
+      </base:E25_Man-Made_Feature>
+    </base:P56_bears_feature>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/dimension/depth/0%2C5">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -130,6 +122,14 @@
         <rdfs:label>0,5</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
+    <base:P53_has_former_or_current_location>
+      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/N/A">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="http://www.lynx.com/resource/provenance"/>
+        </base:P2_has_type>
+        <rdfs:label>N/A</rdfs:label>
+      </base:E53_Place>
+    </base:P53_has_former_or_current_location>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/identifier/50237">
         <base:P2_has_type>
@@ -170,6 +170,7 @@
     </base:P1_is_identified_by>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/1"/>
     <base:P2_has_type rdf:resource="http://www.lynx.com/resource/archaeological-object"/>
+    <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro"/>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/shelf-location/Scaffalatura%20centrale">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/shelf/location"/>
@@ -186,6 +187,7 @@
         <rdfs:label>11,7</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/N/A"/>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/dimension/depth/1%2C8">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -193,27 +195,7 @@
         <rdfs:label>1,8</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:030f6f17-6813-4e92-93bc-e4586de85421">
-        <base:P4_has_time-span>
-          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/date-discovery/N/A">
-            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
-            <rdfs:label>N/A</rdfs:label>
-          </base:E52_Time-Span>
-        </base:P4_has_time-span>
-      </base:E7_Activity>
-    </base:P12i_was_present_at>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50236">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/provenance"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E53_Place>
-    </base:P53_has_former_or_current_location>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/state-of-preservation/Buone">
-        <rdfs:label>Buone</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A"/>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/dimension/lenght/4%2C2">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -235,30 +217,29 @@
         <rdfs:label>N/A</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/status/Non%20Integro">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/status"/>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
+    <base:P45_consists_of rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo"/>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Buone">
+        <rdfs:label>Buone</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
+    <base:P12i_was_present_at>
+      <base:E7_Activity rdf:about="urn:uuid:cd2cc45a-9599-48c0-9ebe-de4ae315130d">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/date-discovery/N/A">
+            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
+            <rdfs:label>N/A</rdfs:label>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P12i_was_present_at>
     <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/technical-feature/Policromia">
+      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Policromia">
         <base:P2_has_type>
           <base:E55_Type rdf:about="http://www.lynx.com/resource/technical-diagnostic-feature"/>
         </base:P2_has_type>
         <rdfs:label>Policromia</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
-    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50236/manifacturing-marks/N/A">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/manifacturing-marks"/>
-        <rdfs:label>N/A</rdfs:label>
       </base:E25_Man-Made_Feature>
     </base:P56_bears_feature>
     <base:P55_has_current_location>
@@ -284,6 +265,7 @@
     </base:P2_has_type>
   </base:E18_Physical_Thing>
   <base:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235">
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/N/A"/>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/box-location/22.n561.-1.0.1%20%E2%80%9CFrammenti%20non%20ricomponibili%20%E2%80%93%20Polifemo%3F%E2%80%9D">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/box/location"/>
@@ -296,33 +278,18 @@
         <rdfs:label>Panneggio per pieghe sovrapposte (Odisseo?)</rdfs:label>
       </base:E33_Linguistic_Object>
     </base:P67i_is_referred_to_by>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50235">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/provenance"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E53_Place>
-    </base:P53_has_former_or_current_location>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/identifier/50235">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/general-id"/>
         <rdfs:label>50235</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/status/Non%20Integro">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/status"/>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
+    <base:P45_consists_of rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo"/>
+    <base:P44_has_condition rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Buone"/>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/1"/>
     <base:P129i_is_subject_of>
       <base:E73_Information_Object rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/bibliography"/>
     </base:P129i_is_subject_of>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/state-of-preservation/Buone">
-        <rdfs:label>Buone</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/dimension/lenght/6">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -330,33 +297,13 @@
         <rdfs:label>6</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/manifacturing-marks/N/A">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/manifacturing-marks"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/identifier/SPE_236">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/internal-id"/>
         <rdfs:label>SPE_236</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
-    <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:226f0a3e-95d8-480f-85e5-5cea776543af">
-        <base:P4_has_time-span>
-          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/date-discovery/N/A">
-            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
-            <rdfs:label>N/A</rdfs:label>
-          </base:E52_Time-Span>
-        </base:P4_has_time-span>
-      </base:E7_Activity>
-    </base:P12i_was_present_at>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A"/>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/dimension/depth/1%2C7">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -383,6 +330,16 @@
         <rdfs:label>N/A</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
+    <base:P12i_was_present_at>
+      <base:E7_Activity rdf:about="urn:uuid:7befe761-d54e-4355-9c53-aed8f32feddd">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/date-discovery/N/A">
+            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
+            <rdfs:label>N/A</rdfs:label>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P12i_was_present_at>
     <base:P2_has_type rdf:resource="http://www.lynx.com/resource/archaeological-object"/>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50235/shelf-location/Scaffalatura%20centrale">
@@ -400,15 +357,22 @@
       </base:E12_Production>
     </base:P108i_was_produced_by>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
+    <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro"/>
   </base:E18_Physical_Thing>
   <base:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234">
+    <base:P45_consists_of rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo"/>
+    <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro"/>
+    <base:P12i_was_present_at>
+      <base:E7_Activity rdf:about="urn:uuid:56ece9c5-0245-479f-9713-a9c5c5b6fcf6">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/date-discovery/N/A">
+            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
+            <rdfs:label>N/A</rdfs:label>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P12i_was_present_at>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/manifacturing-marks/N/A">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/manifacturing-marks"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/identifier/SPE_235">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/internal-id"/>
@@ -421,16 +385,6 @@
         <rdfs:label>N/A</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
-    <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:bbff835e-ad3f-4b95-9549-971aada9c872">
-        <base:P4_has_time-span>
-          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/date-discovery/N/A">
-            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
-            <rdfs:label>N/A</rdfs:label>
-          </base:E52_Time-Span>
-        </base:P4_has_time-span>
-      </base:E7_Activity>
-    </base:P12i_was_present_at>
     <base:P2_has_type>
       <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/type/Frammento%20di%20panneggio">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/classification"/>
@@ -445,11 +399,6 @@
       </base:E54_Dimension>
     </base:P43_has_dimension>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/1"/>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/state-of-preservation/Buone">
-        <rdfs:label>Buone</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/dimension/lenght/4%2C6">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -466,24 +415,15 @@
         </base:P4_has_time-span>
       </base:E12_Production>
     </base:P108i_was_produced_by>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A"/>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/box-location/22.n561.-1.0.1%20%E2%80%9CFrammenti%20non%20ricomponibili%20%E2%80%93%20Polifemo%3F%E2%80%9D">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/box/location"/>
         <rdfs:label>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</rdfs:label>
       </base:E53_Place>
     </base:P55_has_current_location>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50234">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/provenance"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E53_Place>
-    </base:P53_has_former_or_current_location>
     <base:P2_has_type rdf:resource="http://www.lynx.com/resource/archaeological-object"/>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
+    <base:P44_has_condition rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Buone"/>
     <base:P67i_is_referred_to_by>
       <base:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/description/SPE_235">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/description-notes"/>
@@ -512,21 +452,10 @@
         <rdfs:label>11,7</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50234/status/Non%20Integro">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/status"/>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/N/A"/>
   </base:E18_Physical_Thing>
   <base:E12_Production rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/production"/>
   <base:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233">
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/technical-feature/Policromia">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Policromia</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
     <base:P108i_was_produced_by>
       <base:E12_Production rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/production">
         <base:P4_has_time-span>
@@ -543,15 +472,18 @@
         <rdfs:label>4,5</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/state-of-preservation/Buone">
-        <rdfs:label>Buone</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Policromia"/>
     <base:P2_has_type rdf:resource="http://www.lynx.com/resource/archaeological-object"/>
     <base:P129i_is_subject_of>
       <base:E73_Information_Object rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/bibliography"/>
     </base:P129i_is_subject_of>
+    <base:P56_bears_feature>
+      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Riporti">
+        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
+        <rdfs:label>Riporti</rdfs:label>
+      </base:E25_Man-Made_Feature>
+    </base:P56_bears_feature>
+    <base:P44_has_condition rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Buone"/>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/identifier/N/A">
@@ -572,12 +504,6 @@
         <rdfs:label xml:lang="it ">Frammento di panneggio</rdfs:label>
       </base:E55_Type>
     </base:P2_has_type>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50233">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/provenance"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E53_Place>
-    </base:P53_has_former_or_current_location>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/dimension/depth/1%2C8">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -585,18 +511,26 @@
         <rdfs:label>1,8</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/manifacturing-marks/N/A">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/manifacturing-marks"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A"/>
+    <base:P12i_was_present_at>
+      <base:E7_Activity rdf:about="urn:uuid:e1f98a19-6598-4e5b-b0f5-2721cfc20cc3">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/date-discovery/N/A">
+            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
+            <rdfs:label>N/A</rdfs:label>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P12i_was_present_at>
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/N/A"/>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/identifier/SPE_234">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/internal-id"/>
         <rdfs:label>SPE_234</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
+    <base:P45_consists_of rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo"/>
+    <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro"/>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/shelf-location/Scaffalatura%20centrale">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/shelf/location"/>
@@ -616,71 +550,29 @@
         <rdfs:label>11</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/status/Non%20Integro">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/status"/>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
     <base:P55_has_current_location>
       <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/box-location/22.n561.-1.0.1%20%E2%80%9CFrammenti%20non%20ricomponibili%20%E2%80%93%20Polifemo%3F%E2%80%9D">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/box/location"/>
         <rdfs:label>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</rdfs:label>
       </base:E53_Place>
     </base:P55_has_current_location>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
-    <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:003e34d2-51d4-4336-88c5-aec77d6bf33f">
-        <base:P4_has_time-span>
-          <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/date-discovery/N/A">
-            <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
-            <rdfs:label>N/A</rdfs:label>
-          </base:E52_Time-Span>
-        </base:P4_has_time-span>
-      </base:E7_Activity>
-    </base:P12i_was_present_at>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50233/technical-feature/Riporti">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Riporti</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
   </base:E18_Physical_Thing>
   <base:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232">
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/technical-feature/Riporti">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Riporti</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/technical-feature/Lavorazione">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Lavorazione</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/identifier/50232">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/general-id"/>
         <rdfs:label>50232</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Riporti"/>
     <base:P2_has_type>
       <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/type/Frammento%20di%20capigliatura">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/classification"/>
         <rdfs:label xml:lang="it ">Frammento di capigliatura</rdfs:label>
       </base:E55_Type>
     </base:P2_has_type>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/technical-feature/Policromia">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Policromia</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
+    <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/N/A"/>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/manifacturing-marks/N/A"/>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-site/1"/>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/dimension/height/16">
@@ -690,12 +582,13 @@
       </base:E54_Dimension>
     </base:P43_has_dimension>
     <base:P53_has_former_or_current_location rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/1"/>
+    <base:P56_bears_feature>
+      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Perni">
+        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
+        <rdfs:label>Perni</rdfs:label>
+      </base:E25_Man-Made_Feature>
+    </base:P56_bears_feature>
     <base:P2_has_type rdf:resource="http://www.lynx.com/resource/archaeological-object"/>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/state-of-preservation/Buone">
-        <rdfs:label>Buone</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/identifier/SPE_233">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/identifier/internal-id"/>
@@ -708,6 +601,7 @@
         <rdfs:label>N/A</rdfs:label>
       </base:E42_Identifier>
     </base:P1_is_identified_by>
+    <base:P56_bears_feature rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Policromia"/>
     <base:P108i_was_produced_by>
       <base:E12_Production rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/production">
         <base:P4_has_time-span>
@@ -724,9 +618,9 @@
       </base:E33_Linguistic_Object>
     </base:P67i_is_referred_to_by>
     <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/technical-feature/Perni">
+      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/technical-feature/Lavorazione">
         <base:P2_has_type rdf:resource="http://www.lynx.com/resource/technical-diagnostic-feature"/>
-        <rdfs:label>Perni</rdfs:label>
+        <rdfs:label>Lavorazione</rdfs:label>
       </base:E25_Man-Made_Feature>
     </base:P56_bears_feature>
     <base:P43_has_dimension>
@@ -736,36 +630,13 @@
         <rdfs:label>3</rdfs:label>
       </base:E54_Dimension>
     </base:P43_has_dimension>
-    <base:P56_bears_feature>
-      <base:E25_Man-Made_Feature rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/manifacturing-marks/N/A">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/manifacturing-marks"/>
-        <rdfs:label>N/A</rdfs:label>
-      </base:E25_Man-Made_Feature>
-    </base:P56_bears_feature>
     <base:P129i_is_subject_of>
       <base:E73_Information_Object rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/bibliography">
         <rdfs:label>TEST bibliografia</rdfs:label>
       </base:E73_Information_Object>
     </base:P129i_is_subject_of>
-    <base:P55_has_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/shelf-location/Scaffalatura%20centrale">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/shelf/location"/>
-        <rdfs:label>Scaffalatura centrale</rdfs:label>
-      </base:E53_Place>
-    </base:P55_has_current_location>
-    <base:P45_consists_of>
-      <base:E57_Material rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/material/Marmo">
-        <rdfs:label>Marmo</rdfs:label>
-      </base:E57_Material>
-    </base:P45_consists_of>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/status/Non%20Integro">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/status"/>
-        <rdfs:label>Non Integro</rdfs:label>
-      </base:E55_Type>
-    </base:P2_has_type>
     <base:P12i_was_present_at>
-      <base:E7_Activity rdf:about="urn:uuid:aa43096f-42dd-47a4-a5b1-2adfa270c181">
+      <base:E7_Activity rdf:about="urn:uuid:ae28e208-0d06-46cb-9a3c-99291f5575fc">
         <base:P4_has_time-span>
           <base:E52_Time-Span rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/date-discovery/N/A">
             <base:P2_has_type rdf:resource="http://www.lynx.com/resource/date_of_discovery"/>
@@ -774,12 +645,14 @@
         </base:P4_has_time-span>
       </base:E7_Activity>
     </base:P12i_was_present_at>
-    <base:P53_has_former_or_current_location>
-      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/50232">
-        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/provenance"/>
-        <rdfs:label>N/A</rdfs:label>
+    <base:P55_has_current_location>
+      <base:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/shelf-location/Scaffalatura%20centrale">
+        <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/shelf/location"/>
+        <rdfs:label>Scaffalatura centrale</rdfs:label>
       </base:E53_Place>
-    </base:P53_has_former_or_current_location>
+    </base:P55_has_current_location>
+    <base:P44_has_condition rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/state-of-preservation/Buone"/>
+    <base:P45_consists_of rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/material/Marmo"/>
     <base:P43_has_dimension>
       <base:E54_Dimension rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50232/dimension/lenght/14">
         <base:P91_has_unit rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/dimension-unit/cm"/>
@@ -793,5 +666,6 @@
         <rdfs:label>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</rdfs:label>
       </base:E53_Place>
     </base:P55_has_current_location>
+    <base:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/status/Non%20Integro"/>
   </base:E18_Physical_Thing>
 </rdf:RDF>

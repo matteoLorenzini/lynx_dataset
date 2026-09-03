@@ -32,7 +32,7 @@
     </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2/Sabaudia">
-        <skos:prefLabel>Sabaudia</skos:prefLabel>
+        <rdfs:label>Sabaudia</rdfs:label>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
     <crm:P2_has_type>
@@ -57,12 +57,12 @@
     </crm:P89_falls_within>
     <crm:P168_place_is_defined_by>
       <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.25837%2013.43351">
-        <rdfs:label>41.30023 13.02802</rdfs:label>
+        <rdfs:label>41.25837 13.43351</rdfs:label>
       </rdfs:Literal>
     </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1/Sperlonga">
-        <skos:prefLabel>Sperlonga</skos:prefLabel>
+        <rdfs:label>Sperlonga</rdfs:label>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
     <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/place"/>
