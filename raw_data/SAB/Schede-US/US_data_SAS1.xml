@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheda>
+  <row index="2">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>1</Unique_ID>
+    <US_ID>1041</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata nel settore E dell'ampliamento S del saggio</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Litico</value>
+      <value>Intonaco</value>
+      <value>Malta</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Arancione scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Strato di terra a matrice sabbiosa compatta di colore arancione scuro, localizzata nel settore E dell'ampliamento S del SAS 1, restituisce laterizi, malta, intonaco ed elementi litici</Descrizione>
+    <Osservazioni>scavato parzialmente</Osservazioni>
+    <Interpretazione>strato di riempimento moderno successivo allo sradicamento dei pini</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-07-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="3">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>2</Unique_ID>
+    <US_ID>1042</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva a O di 1011, coperta da 1029</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+      <value>Ceramica</value>
+      <value>Metallo</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Compatto</Consistenza>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Strato di intonaco localizzato a O di US 1011 e caratterizzato dalla presenza di frammenti di intonaco di grandi dimensioni che non conservano la pellicola pittorica. Restituisce inoltre frammenti di ceramica, un chiodo e un frammento di intonaco modanato</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Strato di crollo di intonaco</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-08-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="4">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>3</Unique_ID>
+    <US_ID>1043</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata a S di US 1011</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+      <value>Metallo</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Compatto</Consistenza>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Strato di intonaco, localizzato a S di US 1011 che conserva la pellicola pittorica rivolta verso il basso. Gli intonaci si presentano perlopiù a fondo nero restituisce, inoltre un chiodo</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Strato di crollo di intonaco</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-08-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="5">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>4</Unique_ID>
+    <US_ID>1044</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata a SO di US 1011</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+      <value>Ceramica</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Compatto</Consistenza>
+    <Colore>Nero</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>US positva localizzata a SO di US 1011, caratterizzata dalla presenza di numerosi frammenti di intonaco che conservano la pellicola pittorica rivolta verso l'alto. La pellicola pittorica si presenta a fondo nero e con decorazioni sovradipinte a fasce bianche e rosse. Oltre all'intonaco restituisce laterizi e due frammenti ceramici</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Strato di crollo di intonaco</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-08-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="6">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Negativa</value>
+    </Tipologia>
+    <Unique_ID>5</Unique_ID>
+    <US_ID>-1045</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US negativa localizzata nel settore E dell'ampliamento S del saggio</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure/>
+    <Stato_conservazione/>
+    <Descrizione>Taglio di forma grossomodo circolare localizzato nel settore E dell'ampliamento S del saggio</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Ipotetica fossa di piantumazione di pini, successivamente riempita da US 1041 nell'ambito dello sradicamento degli stessi</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="7">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>6</Unique_ID>
+    <US_ID>1046</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata nell'angolo compreso tra -1045 e 1049</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Malta</value>
+      <value>Litico</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa friabile</Consistenza>
+    <Colore>Marrone scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>US positiva, localizzata nell'angolo tra -1045 e 1049, a matrice sabbiosa friabile di colore marrone scuro. Restituisce malta, laterizi e materiale lapideo.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione/>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="8">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>7</Unique_ID>
+    <US_ID>1047</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 2, RPT 5</Riferimenti_materiali>
+    <Definizione>US positiva localizzata nel settore O dell'ampliamento S del saggio</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Ceramica</value>
+      <value>Laterizio</value>
+      <value>Litico</value>
+      <value>Vetro</value>
+      <value>Malta</value>
+    </Componenti_inorganici>
+    <Componenti_organici>
+      <value>Radici</value>
+    </Componenti_organici>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Marrone scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione>Strato esteso per tutta la lunghezza del settore O dell'ampliamento S. Si presenta con terra sabbiosa molto compatta di colore marrone scuro. Restituisce materiale lapideo, sporadici frammenti di vetro e ceramica, laterizi, di cui una tegola con bollo (RPT 2) e uno spicchio di colonna con bollo (RPT 5). E' fortemente intaccato da radici e conserva i resti di un tronco di pino tagliato.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Strato di ributto moderno</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="9">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>8</Unique_ID>
+    <US_ID>1049</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1015 e 1048</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Cocciopesto</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 8 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1015 e 1048. La faccia superiore e quella esterna (rivolta ad E) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato E lo spazio tra 1015 e 1048</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="10">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>9</Unique_ID>
+    <US_ID>1050</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1015 e 1048</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Cocciopesto</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 8 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1015 e 1048. La faccia superiore e quella esterna (rivolta ad O) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato O lo spazio tra 1015 e 1048</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="11">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>10</Unique_ID>
+    <US_ID>1052</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento dell'anima di colonna USM 1051</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Rivestimento di anima di colonna USM 1051, realizzato in intonaco bianco con scanalature</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di anima di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="12">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>11</Unique_ID>
+    <US_ID>1054</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1048 e 1051</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Cocciopesto</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 10 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1048 e 1051. La faccia superiore e quella esterna (rivolta ad E) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato E lo spazio tra 1048 e 1051</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="13">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>12</Unique_ID>
+    <US_ID>1055</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1048 e 1051</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Cocciopesto</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 10 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1048 e 1051. La faccia superiore e quella esterna (rivolta ad O) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato O lo spazio tra 1048 e 1051</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="14">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>13</Unique_ID>
+    <US_ID>1056</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 6, RPT 7, RPT 8</Riferimenti_materiali>
+    <Definizione>US positiva posta a E di US 1054</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Litico</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa incoerente</Consistenza>
+    <Colore>Marrone chiaro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>US positiva, posta ad E di US 1054. Restituisce tegole miste a terra sabbiosa incoerente di colore marrone chiaro in cui vengono anche rinvenuti tufelli (forse pertinenti a crollo di muratura). Due delle tegole presentano un bollo di Domizio Calvino, una in tre frammenti (RPT 6) ed una in sei (RPT 7). Un'ulteriore tegola presenta il riquadro di un bollo, ma non l'iscrizione (RPT 8)</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di muratura e copertura</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="15">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>14</Unique_ID>
+    <US_ID>1057</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 4</Riferimenti_materiali>
+    <Definizione>US positiva posta a E di US 1054</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa incoerente</Consistenza>
+    <Colore>Marrone chiaro</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>US positiva, posta ad E di US 1054. Restituisce spicchi di colonna misti a poca terra sabbiosa incoerente di colore marrone chiaro. Quattro spicchi presentano parte di bollo di Domizio Calvino, facendo ipotizzare un riutilizzo del materiale di tegole bollate (RPT 4). Sembrerebbe avere un andamento O-E.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di colonna forse riferibile a USM 1053</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="16">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Negativa</value>
+    </Tipologia>
+    <Unique_ID>15</Unique_ID>
+    <US_ID>-1058</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US negativa posta a S di US 1056 e a E di US 1074</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Taglio di forma grossomodo circolare localizzato a S di 1056 e ad E di 1074</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Ipotetica fossa di piantumazione di pini, successivamente riempita da US 1059 nell'ambito dello sradicamento degli stessi</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="17">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>16</Unique_ID>
+    <US_ID>1059</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata a S di 1056 e a E di 1074</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Arancione scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Strato di terra a matrice sabbiosa compatta di colore arancione scuro, localizzato a S di 1056 e a E di 1074. Restituisce frammenti di laterizi.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>strato di riempimento moderno successivo allo sradicamento dei pini</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="18">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>17</Unique_ID>
+    <US_ID>1061</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento dell'anima di colonna USM 1060</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Rivestimento di anima di colonna USM 1060, realizzato in intonaco bianco con scanalature</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di anima di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="19">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>18</Unique_ID>
+    <US_ID>1063</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento dell'anima di colonna USM 1062</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Rivestimento di anima di colonna USM 1062, realizzato in intonaco bianco con scanalature</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di anima di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="20">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>19</Unique_ID>
+    <US_ID>1064</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1060 e 1062</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Cocciopesto</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 15 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1060 e 1062. La faccia superiore e quella esterna (rivolta ad E) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato E lo spazio tra 1060 e 1062</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="21">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>20</Unique_ID>
+    <US_ID>1065</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1060 e 1062</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Cocciopesto</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 15 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1060 e 1062. La faccia superiore e quella esterna (rivolta ad O) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato O lo spazio tra 1060 e 1062</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="22">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>21</Unique_ID>
+    <US_ID>1066</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 9</Riferimenti_materiali>
+    <Definizione>US positiva localizzata a E di 1064 e a S di 1059</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Litico</value>
+      <value>Tessere di mosaico</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Incoerente</Consistenza>
+    <Colore>Marrone</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Strato di tufelli e laterizi in poca terra marrone. Restituisce uno spicchio di colonna con bollo (RPT 9) e sei tessere di mosaico. Tufelli e mattoni conservano almeno in parte la collocazione originaria dell'opera muraria</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di muratura</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="23">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>22</Unique_ID>
+    <US_ID>1067</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva posta tra 1064 e 1066</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Limosa friabile</Consistenza>
+    <Colore>Marrone scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>US positiva posta tra 1064 e 1066. Restituisce spicchi di colonna misti a terra a matrice limosa friabile di colore marrone scuro. Non restituisce nessun altro materiale.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="24">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>23</Unique_ID>
+    <US_ID>1068</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata tra US 1049 e US 1050</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Marrone scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione>US positiva posizionata tra US 1049 e US 1050, strato di terra a matrice sabbiosa molto compatta di colore marrone scuro che restituisce solo radi frammenti di laterizi</Descrizione>
+    <Osservazioni>Si campiona la terra</Osservazioni>
+    <Interpretazione>Riempimento delle spallette 1049 e 1050</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura>Terra</Campionatura>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="25">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>24</Unique_ID>
+    <US_ID>1069</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata tra US 1054 e US 1055</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa compatta</Consistenza>
+    <Colore>Grigio</Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione>US positiva posizionata tra US 1054 e US 1055, strato di terra a matrice sabbiosa compatta di colore grigio che non restituisce materiali</Descrizione>
+    <Osservazioni>Si campiona la terra</Osservazioni>
+    <Interpretazione>Riempimento delle spallette 1054 e 1055</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura>Terra</Campionatura>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="26">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>25</Unique_ID>
+    <US_ID>1070</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata tra US 1054 e US 1055</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa compatta</Consistenza>
+    <Colore>Marrone</Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione>US positiva localizzata tra US 1064 e US 1065, strato di terra a matrice sabbiosa compatta di colore marrone che non restituisce alcun materiale</Descrizione>
+    <Osservazioni>Si campiona la terra</Osservazioni>
+    <Interpretazione>Riempimento delle spallette 1064 e 1065</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura>Terra</Campionatura>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-09-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="27">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>26</Unique_ID>
+    <US_ID>1073</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva posizionata a O di US 1075</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Litico</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Incoerente</Consistenza>
+    <Colore>Giallo-biancastro</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>US positiva collocata a O di US 1075, si presenta come un accumulo di pietre in poca terra gialla incoerente. Non restituisce materiali.</Descrizione>
+    <Osservazioni/>
+    <Interpretazione/>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-10-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="28">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>27</Unique_ID>
+    <US_ID>1074</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1051 e 1060</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Cocciopesto</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 12 cm</Misure>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1051 e 1060. La faccia superiore e quella esterna (rivolta ad E) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato E lo spazio tra 1051 e 1060</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-10-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="29">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>28</Unique_ID>
+    <US_ID>1075</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva con andamento N-S posta tra 1051 e 1060</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Cocciopesto</value>
+      <value>Laterizio</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure>sp. 12 cm</Misure>
+    <Stato_conservazione>Mediocre</Stato_conservazione>
+    <Descrizione>Spalletta in cocciopesto con andamento N-S localizzata tra 1051 e 1060. La faccia superiore e quella esterna (rivolta ad O) appaiono lisciate, mentre quella interna appare rivestita da laterizi</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Spalletta a cordolo che delimita lungo il lato O lo spazio tra 1051 e 1060</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-10-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="30">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>29</Unique_ID>
+    <US_ID>1076</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 10</Riferimenti_materiali>
+    <Definizione>US positiva posta ad E di 1064</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Litico</value>
+      <value>Malta</value>
+    </Componenti_inorganici>
+    <Componenti_organici>
+      <value>Radici</value>
+    </Componenti_organici>
+    <Consistenza>Sabbiosa friabile</Consistenza>
+    <Colore>Marrone scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Strato esteso ad E di 1064 a matrice sabbiosa friabile di colore marrone scuro che restituisce tegole di grandi dimensioni, frammenti di coppi, malta, elementi litici e radici. Una delle tegole presenta un bollo, forse Hilarius Livia (RPT 10)</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di copertura</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-11-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="31">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>30</Unique_ID>
+    <US_ID>1077</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1053</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Rivestimento in intonaco bianco della base di colonna 1053</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-11-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="32">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>31</Unique_ID>
+    <US_ID>1078</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1071</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Rivestimento in intonaco bianco della base di colonna 1071</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-11-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="33">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>32</Unique_ID>
+    <US_ID>1079</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1072</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Rivestimento in intonaco bianco della base di colonna 1072</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-11-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="34">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>33</Unique_ID>
+    <US_ID>1080</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali>RPT 12</Riferimenti_materiali>
+    <Definizione>US positiva posta ad O di 1060 con andamento E-O</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Malta</value>
+      <value>Litico</value>
+    </Componenti_inorganici>
+    <Componenti_organici>
+      <value>Radici</value>
+    </Componenti_organici>
+    <Consistenza>Incoerente</Consistenza>
+    <Colore>Grigio</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Strato posizionato a O di 1060 che restituisce spicchi di colonna, cubilia, nuclei di malta e radici misti a poca terra di colore grigio. Restituisce anche una tegola con bollo circolare (RPT 12)</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Crollo di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>14/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="35">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>34</Unique_ID>
+    <US_ID>1081</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1016</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Rosso</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Secondo strato di rivestimento della base di colonna USM 1016, presenta colore rosso e decorazione di possibile elemento fitomorfo</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Seconda fase di rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>14/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="36">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>35</Unique_ID>
+    <US_ID>1082</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1016</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Blu</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Primo strato di rivestimento in intonaco blu della base di colonna 1016</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Prima fase di rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>14/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="37">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>36</Unique_ID>
+    <US_ID>1083</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata tra 1074 e 1075</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale diacronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore/>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione/>
+    <Osservazioni>Non scavata</Osservazioni>
+    <Interpretazione>Riempimento delle spallette 1074 e 1075</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura>Terra</Campionatura>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>14/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="38">
+    <Tipologia>
+      <value>Naturale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>37</Unique_ID>
+    <US_ID>1084</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata tra 1021 e 1022</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Naturale diacronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Litico</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Giallo</Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione>Strato posizionato tra 1021 e 1022, si presenta a matrice sabbiosa molto compatta di colore giallo che restituisce radi frammenti di laterizi e tufelli</Descrizione>
+    <Osservazioni>Si campiona la terra</Osservazioni>
+    <Interpretazione>Riempimento delle spallette 1021 e 1022</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura>Terra</Campionatura>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>14/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="39">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>38</Unique_ID>
+    <US_ID>1085</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata ad E di 1054, tra -1045 e -1058</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa compatta</Consistenza>
+    <Colore>Marrone chiaro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione/>
+    <Osservazioni>Non scavata</Osservazioni>
+    <Interpretazione>Possibile piano di battuto pavimentale</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>15/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="40">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>39</Unique_ID>
+    <US_ID>1086</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata ad E di 1064 e a S di -1058</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa compatta</Consistenza>
+    <Colore>Marrone chiaro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione/>
+    <Osservazioni>Non scavata</Osservazioni>
+    <Interpretazione>Possibile piano di battuto pavimentale</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>15/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="41">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>40</Unique_ID>
+    <US_ID>1087</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata a S di 1032 nel settore O del saggio</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici/>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa compatta</Consistenza>
+    <Colore>Marrone </Colore>
+    <Misure/>
+    <Stato_conservazione>Buono</Stato_conservazione>
+    <Descrizione/>
+    <Osservazioni>Non scavata</Osservazioni>
+    <Interpretazione>Strato di ributto moderno</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>15/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="42">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>41</Unique_ID>
+    <US_ID>1088</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento di intonaco di USM 1001</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Nero</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Rivestimento di intonaco parietale scuro del muro USM 1001</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento parietale</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>15/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+  <row index="43">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Unique_ID>42</Unique_ID>
+    <US_ID>1090</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Localit>Sabaudia- Villa di Domiziano</Localit>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>Rivestimento della base di colonna 1048</Definizione>
+    <Criteri_distinzione>
+      <value>Forma</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Intonaco</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza/>
+    <Colore>Bianco</Colore>
+    <Misure/>
+    <Stato_conservazione>Scarso</Stato_conservazione>
+    <Descrizione>Rivestimento in intonaco bianco, che presenta diversi livelli di modanatura, della base di colonna USM 1048</Descrizione>
+    <Osservazioni/>
+    <Interpretazione>Rivestimento di base di colonna</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>15/09/2026</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+</scheda>
