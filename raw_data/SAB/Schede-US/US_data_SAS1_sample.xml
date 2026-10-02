@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheda>
+  <row index="2">
+    <Tipologia>
+      <value>Artificiale</value>
+      <value>Positiva</value>
+    </Tipologia>
+    <Luogo>
+      <place_name>2</place_name>
+      <site_name>2</site_name>
+    </Luogo>
+    <Unique_ID>1</Unique_ID>
+    <US_ID>1041</US_ID>
+    <Ente_responsabile/>
+    <Anno>2026</Anno>
+    <Ufficio_MiC/>
+    <Id._Saggio/>
+    <Area_Struttura>Area dellla Peschiera</Area_Struttura>
+    <Saggio>SAS 1</Saggio>
+    <Ambiente_UnitaFunzionale/>
+    <Posizione/>
+    <Settore/>
+    <Quadrato/>
+    <Quote>cfr. GIS</Quote>
+    <Piante>Sì</Piante>
+    <Prospetti/>
+    <Sezioni/>
+    <Fotografie>Sì</Fotografie>
+    <Riferimenti_materiali/>
+    <Definizione>US positiva localizzata nel settore E dell'ampliamento S del saggio</Definizione>
+    <Criteri_distinzione>
+      <value>Composizione</value>
+      <value>Colore</value>
+      <value>Consistenza</value>
+    </Criteri_distinzione>
+    <Modo_formazione>
+      <value>Antropico sincronico</value>
+    </Modo_formazione>
+    <Componenti_inorganici>
+      <value>Laterizio</value>
+      <value>Litico</value>
+      <value>Intonaco</value>
+      <value>Malta</value>
+    </Componenti_inorganici>
+    <Componenti_organici/>
+    <Consistenza>Sabbiosa molto compatta</Consistenza>
+    <Colore>Arancione scuro</Colore>
+    <Misure/>
+    <Stato_conservazione>Parziale</Stato_conservazione>
+    <Descrizione>Strato di terra a matrice sabbiosa compatta di colore arancione scuro, localizzata nel settore E dell'ampliamento S del SAS 1, restituisce laterizi, malta, intonaco ed elementi litici</Descrizione>
+    <Osservazioni>scavato parzialmente</Osservazioni>
+    <Interpretazione>strato di riempimento moderno successivo allo sradicamento dei pini</Interpretazione>
+    <Datazione/>
+    <Periodo/>
+    <Fase/>
+    <Attivit/>
+    <Elementi_datanti/>
+    <Quantitativi_reperti/>
+    <Campionatura/>
+    <Flottazione/>
+    <Setacciatura/>
+    <Affidabilit_stratigrafica/>
+    <Responsabile_scientifico>Maria Luisa Catoni, Riccardo Olivito</Responsabile_scientifico>
+    <Data_rilevamento>2026-07-09 00:00:00</Data_rilevamento>
+    <Responsabile_compilazione>Nicole Crescenzi, Rodolfo Gagliardi</Responsabile_compilazione>
+    <Data_rielaborazione/>
+    <Responsabile_rielaborazione/>
+  </row>
+</scheda>
