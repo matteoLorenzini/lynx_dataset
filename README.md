@@ -1,6 +1,6 @@
 # Description
 
-Dataset files for cultural-heritage places, archaeological stratigraphic units, and catalogued objects. The repository contains source exports in CSV/XML format and RDF representations of selected entities and relationships.
+Dataset files for cultural-heritage places, archaeological stratigraphic units, catalogued objects, and biographical records of scholars. The repository contains source exports in CSV/XML format and RDF representations of selected entities and relationships.
 
 These datasets document archaeological research promoted by the LYNX research unit at the IMT School for Advanced Studies Lucca.
 
@@ -9,24 +9,38 @@ These datasets document archaeological research promoted by the LYNX research un
 ```text
 .
 ├── raw_data/
+│   ├── Person/
+│   │   ├── Person.xlsx
+│   │   ├── Person_entities.json
+│   │   └── XML/
+│   │       ├── Person.csv
+│   │       ├── Person.xml
+│   │       ├── Person_entities.xml
+│   │       ├── Person_relations.xml
+│   │       └── Person_sample.xml, Person_relations_sample.xml
 │   ├── Places_and_sites/
 │   │   └── places_and_sites.xml
 │   ├── SAB/
 │   │   └── Schede-US/
 │   │       ├── US_data_SAS1.csv
 │   │       ├── US_data_SAS1.xml
-│   │       └── US_data_SAS1_relations.xml
+│   │       ├── US_data_SAS1_relations.xml
+│   │       └── US_data_SAS1_sample.xml, US_data_SAS1_relations_sample.xml
 │   └── SPE/
 │       └── Scheda-Catalogo/
 │           ├── Scheda_Catalogo_-_Scheda_Catalogo.csv
 │           ├── Scheda_Catalogo_-_Scheda_Catalogo.xml
-│           └── Scheda_Catalogo_-_Scheda_Catalogo_relations.xml
+│           ├── Scheda_Catalogo_-_Scheda_Catalogo_relations.xml
+│           └── Scheda_Catalogo_-_Scheda_Catalogo_sample.xml
 ├── RDF/
 │   ├── E18.rdf
 │   ├── E18_relations.rdf
+│   ├── e18_immagini.rdf
 │   └── E53.rdf
 └── LICENSE
 ```
+
+Files ending in `_sample.xml` are reduced excerpts of the corresponding full exports, intended for quick inspection and testing.
 
 ## Contents
 
@@ -53,12 +67,23 @@ The `raw_data/SPE/Scheda-Catalogo/` files describe catalogued cultural-heritage 
 
 `Scheda_Catalogo_-_Scheda_Catalogo.csv` is the tabular export and `Scheda_Catalogo_-_Scheda_Catalogo.xml` is its structured XML counterpart. The relations XML file contains links between catalogue records.
 
+### Person: scholar biographies
+
+The `raw_data/Person/` files describe the scholars connected to the research, currently Bernard Andreae. Each record has `Unique_ID`, `Name_Surname`, `Birth_place`, `Birth_date`, `Death_place`, `Death_date`, `Biography`, `Role`, and `Contribution` fields (biographical text is in English).
+
+- `Person.xlsx`: the original spreadsheet.
+- `XML/Person.csv` and `XML/Person.xml`: tabular and XML exports of the same records.
+- `XML/Person_entities.xml`: entities extracted from the biography, role, and contribution text (persons, places, organizations, roles with start/end years, events, and works). Each entity keeps a `Source` element with the originating row, field, and text excerpt.
+- `Person_entities.json`: the raw entity-extraction output, generated with a language model (`qwen2.5:7b`) and keyed by a hash of the source text. As automatically extracted data, it should be reviewed before being used as authoritative.
+- `XML/Person_relations.xml`: relations between person records; currently empty.
+
 ### RDF exports
 
 The `RDF/` directory contains RDF/XML exports using namespaces from CIDOC CRM and related extensions:
 
 - `E18.rdf`: descriptions of physical cultural-heritage objects, including identifiers, types, materials, dimensions, locations, dates, and other object properties.
 - `E18_relations.rdf`: relationships between physical objects, such as equivalence or composition links.
+- `e18_immagini.rdf`: image documentation for physical objects; each object is linked via `crm:P70i_is_documented_in` to `crm:E31_Document` resources that reference the image file names.
 - `E53.rdf`: descriptions of cultural-heritage places and sites, including names, coordinates, and place/site containment.
 
 The RDF resources use the `http://www.lynx.com/resource/` namespace. Object resources are identified by their catalogue identifiers, while place and site resources are identified by their place or site IDs.
