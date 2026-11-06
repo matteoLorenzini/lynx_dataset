@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "model": "qwen2.5:7b",
+  "items": {
+    "22502d5d3f0b25a7589fdf599b9fab58a3ccc58c9ed99aca8a5939832b5e382f": {
+      "field": "BIOGRAPHY",
+      "preview": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializin",
+      "entities": [
+        {
+          "type": "event",
+          "value": "Graduation",
+          "context": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography."
+        },
+        {
+          "type": "role",
+          "value": "Assistant",
+          "context": "From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.",
+          "from": "1956",
+          "to": "1959",
+          "organization": "German Archaeological Institute in Italy"
+        },
+        {
+          "type": "role",
+          "value": "Professor",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
+          "from": "1965",
+          "to": "1977",
+          "place": "Bochum"
+        },
+        {
+          "type": "role",
+          "value": "Professor",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
+          "from": "1978",
+          "place": "Marburg"
+        },
+        {
+          "type": "role",
+          "value": "Director",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
+          "from": "1984",
+          "to": "1995",
+          "place": "Rome",
+          "organization": "German Archaeological Institute"
+        },
+        {
+          "type": "event",
+          "value": "Excavations",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
+        }
+      ]
+    }
+  }
+}

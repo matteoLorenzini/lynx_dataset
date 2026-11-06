@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:pico="http://data.cochrane.org/ontologies/pico/"
+    xmlns:rs="http://www.researchspace.org/ontology/">
+  <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237">
+    <crm:P70i_is_documented_in rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3749.JPG"/>
+    <crm:P70i_is_documented_in rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3750.JPG"/>
+    <crm:P70i_is_documented_in rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3751.JPG"/>
+    <crm:P70i_is_documented_in rdf:resource="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3752.JPG"/>
+  </crm:E18_Physical_Thing>
+  <crm:E31_Document rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3749.JPG">
+    <rdfs:label>SPE_238_DSC_3749.JPG</rdfs:label>
+    <pico:preview>
+      <rs:EX_File rdf:about="http://www.researchspace.org/resource/EX_File/SPE_238_DSC_3749.JPG">
+        <rs:PX_has_file_name>SPE_238_DSC_3749.JPG</rs:PX_has_file_name>
+      </rs:EX_File>
+    </pico:preview>
+  </crm:E31_Document>
+  <crm:E31_Document rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3750.JPG">
+    <rdfs:label>SPE_238_DSC_3750.JPG</rdfs:label>
+    <pico:preview>
+      <rs:EX_File rdf:about="http://www.researchspace.org/resource/EX_File/SPE_238_DSC_3750.JPG">
+        <rs:PX_has_file_name>SPE_238_DSC_3750.JPG</rs:PX_has_file_name>
+      </rs:EX_File>
+    </pico:preview>
+  </crm:E31_Document>
+  <crm:E31_Document rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3751.JPG">
+    <rdfs:label>SPE_238_DSC_3751.JPG</rdfs:label>
+    <pico:preview>
+      <rs:EX_File rdf:about="http://www.researchspace.org/resource/EX_File/SPE_238_DSC_3751.JPG">
+        <rs:PX_has_file_name>SPE_238_DSC_3751.JPG</rs:PX_has_file_name>
+      </rs:EX_File>
+    </pico:preview>
+  </crm:E31_Document>
+  <crm:E31_Document rdf:about="http://www.lynx.com/resource/cultural-heritage-object/50237/document/SPE_238_DSC_3752.JPG">
+    <rdfs:label>SPE_238_DSC_3752.JPG</rdfs:label>
+    <pico:preview>
+      <rs:EX_File rdf:about="http://www.researchspace.org/resource/EX_File/SPE_238_DSC_3752.JPG">
+        <rs:PX_has_file_name>SPE_238_DSC_3752.JPG</rs:PX_has_file_name>
+      </rs:EX_File>
+    </pico:preview>
+  </crm:E31_Document>
+</rdf:RDF>

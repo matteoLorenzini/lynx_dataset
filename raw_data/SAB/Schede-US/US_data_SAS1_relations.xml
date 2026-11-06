@@ -1,1137 +1,2059 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheda>
   <row index="2">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/1</Unique_ID>
+    <US_ID>1041</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; -1031</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="3">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/2</Unique_ID>
+    <US_ID>1042</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1029; 1043</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/3</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1044</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/4</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1029</value>
+      <value>1043</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1029</value>
+      <value>1043</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1044</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1044</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1044</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/4</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1029; 1043</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/3</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1044</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1044</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1029</value>
+      <value>1043</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1029</value>
+      <value>1043</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="4">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/3</Unique_ID>
+    <US_ID>1043</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1019</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1044</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/4</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1019</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1019</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1044</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1044</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1044</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/4</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1019</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1044</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1044</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1019</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1019</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="5">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/4</Unique_ID>
+    <US_ID>1044</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1033</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
+    <Sequenza_fisica_copre>
+      <value>1033</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1033</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1033</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1033</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1033</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
     <Sequenza_stratigrafica_anteriore_a/>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_anteriore_a_US_ID/>
   </row>
   <row index="6">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/5</Unique_ID>
+    <US_ID>-1045</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
-    <Sequenza_fisica_taglia>1035; 1046; 1056; 1085</Sequenza_fisica_taglia>
-    <Sequenza_fisica_taglia_unique_id>http://www.lynx.com/resource/stratigraphic-unit/6; http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_fisica_taglia_unique_id>
-    <Sequenza_fisica_riempito_da>1041</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/1</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
+    <Sequenza_fisica_taglia>
+      <value>1035</value>
+      <value>1046</value>
+      <value>1056</value>
+      <value>1085</value>
+    </Sequenza_fisica_taglia>
+    <Sequenza_fisica_taglia_US_ID>
+      <value>1035</value>
+      <value>1046</value>
+      <value>1056</value>
+      <value>1085</value>
+    </Sequenza_fisica_taglia_US_ID>
+    <Sequenza_fisica_riempito_da>
+      <value>1041</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1041</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1035; 1046; 1056; 1085</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/6; http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1041</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/1</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1035</value>
+      <value>1046</value>
+      <value>1056</value>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1035</value>
+      <value>1046</value>
+      <value>1056</value>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1041</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1041</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="7">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/6</Unique_ID>
+    <US_ID>1046</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1035; 1049</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/8</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1035</value>
+      <value>1049</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1035</value>
+      <value>1049</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1035; 1049</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/8</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1035</value>
+      <value>1049</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1035</value>
+      <value>1049</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="8">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/7</Unique_ID>
+    <US_ID>1047</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1032; 1050; 1055; 1065; 1075; 1079; 1080; 1087; 1090; 1077; 1078</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/9; http://www.lynx.com/resource/stratigraphic-unit/12; http://www.lynx.com/resource/stratigraphic-unit/20; http://www.lynx.com/resource/stratigraphic-unit/28; http://www.lynx.com/resource/stratigraphic-unit/32; http://www.lynx.com/resource/stratigraphic-unit/33; http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/42; http://www.lynx.com/resource/stratigraphic-unit/30; http://www.lynx.com/resource/stratigraphic-unit/31</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1032</value>
+      <value>1050</value>
+      <value>1055</value>
+      <value>1065</value>
+      <value>1075</value>
+      <value>1079</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1090</value>
+      <value>1077</value>
+      <value>1078</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1032</value>
+      <value>1050</value>
+      <value>1055</value>
+      <value>1065</value>
+      <value>1075</value>
+      <value>1079</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1090</value>
+      <value>1077</value>
+      <value>1078</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1000</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1032; 1050; 1055; 1065; 1075; 1079; 1080; 1087; 1090; 1077; 1078</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/9; http://www.lynx.com/resource/stratigraphic-unit/12; http://www.lynx.com/resource/stratigraphic-unit/20; http://www.lynx.com/resource/stratigraphic-unit/28; http://www.lynx.com/resource/stratigraphic-unit/32; http://www.lynx.com/resource/stratigraphic-unit/33; http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/42; http://www.lynx.com/resource/stratigraphic-unit/30; http://www.lynx.com/resource/stratigraphic-unit/31</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1032</value>
+      <value>1050</value>
+      <value>1055</value>
+      <value>1065</value>
+      <value>1075</value>
+      <value>1079</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1090</value>
+      <value>1077</value>
+      <value>1078</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1032</value>
+      <value>1050</value>
+      <value>1055</value>
+      <value>1065</value>
+      <value>1075</value>
+      <value>1079</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1090</value>
+      <value>1077</value>
+      <value>1078</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="9">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/8</Unique_ID>
-    <Sequenza_fisica_uguale_a>1050</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/9</Sequenza_fisica_uguale_a_unique_id>
+    <US_ID>1049</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1050</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1050</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1035; 1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1032; 1090; 1081; 1081</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/42; http://www.lynx.com/resource/stratigraphic-unit/34; http://www.lynx.com/resource/stratigraphic-unit/34</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1035</value>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1035</value>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1032</value>
+      <value>1090</value>
+      <value>1081</value>
+      <value>1081</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1032</value>
+      <value>1090</value>
+      <value>1081</value>
+      <value>1081</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1068</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/23</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1068</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1068</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1032; 1090; 1081</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/42; http://www.lynx.com/resource/stratigraphic-unit/34</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1068; 1035</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/23</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1032</value>
+      <value>1090</value>
+      <value>1081</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1032</value>
+      <value>1090</value>
+      <value>1081</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1068</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1068</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="10">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/9</Unique_ID>
+    <US_ID>1050</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1081; 1082; 1090; 1032</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/34; http://www.lynx.com/resource/stratigraphic-unit/35; http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1081</value>
+      <value>1082</value>
+      <value>1090</value>
+      <value>1032</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1081</value>
+      <value>1082</value>
+      <value>1090</value>
+      <value>1032</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1068</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/23</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1068</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1068</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1032; 1081; 1082; 1090</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/34; http://www.lynx.com/resource/stratigraphic-unit/35; http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1068</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/23</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1032</value>
+      <value>1081</value>
+      <value>1082</value>
+      <value>1090</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1032</value>
+      <value>1081</value>
+      <value>1082</value>
+      <value>1090</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1068</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1068</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="11">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/10</Unique_ID>
+    <US_ID>1052</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1051; 1053</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1051</value>
+      <value>1053</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1051</value>
+      <value>1053</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1051; 1053</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1051</value>
+      <value>1053</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1051</value>
+      <value>1053</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="12">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/11</Unique_ID>
-    <Sequenza_fisica_uguale_a>1055</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/12</Sequenza_fisica_uguale_a_unique_id>
+    <US_ID>1054</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1055</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1055</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1085; 1056; 1057</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38; http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/14</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1077; 1090</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/30; http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1056</value>
+      <value>1057</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1056</value>
+      <value>1057</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1077</value>
+      <value>1090</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1077</value>
+      <value>1090</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1069</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/24</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1069</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1069</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1077; 1090. 1085</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/30</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1069; 1056; 1057; 1035</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/24; http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/14</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1077</value>
+      <value>1090. 1085</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1077</value>
+      <value>1090. 1085</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1069</value>
+      <value>1056</value>
+      <value>1057</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1069</value>
+      <value>1056</value>
+      <value>1057</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="13">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/12</Unique_ID>
+    <US_ID>1055</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1087</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1032; 1077; 1090</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/30; http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1032</value>
+      <value>1077</value>
+      <value>1090</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1032</value>
+      <value>1077</value>
+      <value>1090</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1069</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/24</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1069</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1069</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1090. 1077; 1032</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1069; 1087</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/24; http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1090. 1077</value>
+      <value>1032</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1090. 1077</value>
+      <value>1032</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1069</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1069</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="14">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/13</Unique_ID>
+    <US_ID>1056</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1057</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/14</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1085</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1057</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1057</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1085</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1085</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1085</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1057</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/14</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1057</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1057</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="15">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/14</Unique_ID>
+    <US_ID>1057</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1085</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1085</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1085</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1085</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="16">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/15</Unique_ID>
+    <US_ID>-1058</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
-    <Sequenza_fisica_taglia>1074; 1083; 1085; 1056; 1066; 1067; 1076; 1086</Sequenza_fisica_taglia>
-    <Sequenza_fisica_taglia_unique_id>http://www.lynx.com/resource/stratigraphic-unit/27; http://www.lynx.com/resource/stratigraphic-unit/36; http://www.lynx.com/resource/stratigraphic-unit/38; http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/21; http://www.lynx.com/resource/stratigraphic-unit/22; http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_taglia_unique_id>
-    <Sequenza_fisica_riempito_da>1059</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/16</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
+    <Sequenza_fisica_taglia>
+      <value>1074</value>
+      <value>1083</value>
+      <value>1085</value>
+      <value>1056</value>
+      <value>1066</value>
+      <value>1067</value>
+      <value>1076</value>
+      <value>1086</value>
+    </Sequenza_fisica_taglia>
+    <Sequenza_fisica_taglia_US_ID>
+      <value>1074</value>
+      <value>1083</value>
+      <value>1085</value>
+      <value>1056</value>
+      <value>1066</value>
+      <value>1067</value>
+      <value>1076</value>
+      <value>1086</value>
+    </Sequenza_fisica_taglia_US_ID>
+    <Sequenza_fisica_riempito_da>
+      <value>1059</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1059</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1056; 1066; 1067; 1074; 1076; 1085; 1086</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/13; http://www.lynx.com/resource/stratigraphic-unit/21; http://www.lynx.com/resource/stratigraphic-unit/22; http://www.lynx.com/resource/stratigraphic-unit/27; http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/38; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>-1031; 1059</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/16</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1056</value>
+      <value>1066</value>
+      <value>1067</value>
+      <value>1074</value>
+      <value>1076</value>
+      <value>1085</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1056</value>
+      <value>1066</value>
+      <value>1067</value>
+      <value>1074</value>
+      <value>1076</value>
+      <value>1085</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>-1031</value>
+      <value>1059</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>-1031</value>
+      <value>1059</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="17">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/16</Unique_ID>
+    <US_ID>1059</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; -1031</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="18">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/17</Unique_ID>
+    <US_ID>1061</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1060; 1071</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1060</value>
+      <value>1071</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1060</value>
+      <value>1071</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1060; 1071</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1060</value>
+      <value>1071</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1060</value>
+      <value>1071</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="19">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/18</Unique_ID>
+    <US_ID>1063</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1062; 1072</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1062</value>
+      <value>1072</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1062</value>
+      <value>1072</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1062; 1072</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1062</value>
+      <value>1072</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1062</value>
+      <value>1072</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="20">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/19</Unique_ID>
-    <Sequenza_fisica_uguale_a>1065</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/20</Sequenza_fisica_uguale_a_unique_id>
+    <US_ID>1064</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1065</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1065</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1076; 1086</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1078; 1079</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/32</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1076</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1076</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1070</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/25</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1070</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1070</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1078; 1079</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/32</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1070</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/25</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1070</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1070</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="21">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/20</Unique_ID>
+    <US_ID>1065</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1087</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1078; 1079</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/32</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1070</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/25</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1070</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1070</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1078; 1079</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/32</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1087; 1070</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/25</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1078</value>
+      <value>1079</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1070</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1070</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="22">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/21</Unique_ID>
+    <US_ID>1066</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1076; 1067</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/22</Sequenza_fisica_copre_unique_id>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1076</value>
+      <value>1067</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1076</value>
+      <value>1067</value>
+    </Sequenza_fisica_copre_US_ID>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1076; 1067</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/22</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; -1031</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1076</value>
+      <value>1067</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1076</value>
+      <value>1067</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="23">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/22</Unique_ID>
+    <US_ID>1067</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1076; 1078</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/31</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1076</value>
+      <value>1078</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1076</value>
+      <value>1078</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1076; 1078</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/29; http://www.lynx.com/resource/stratigraphic-unit/31</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1076</value>
+      <value>1078</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1076</value>
+      <value>1078</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="24">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/23</Unique_ID>
+    <US_ID>1068</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1035</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1035</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1035</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1035</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1035</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1035</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="25">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/24</Unique_ID>
+    <US_ID>1069</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1085</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1085</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1085</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1085</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1085</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="26">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/25</Unique_ID>
+    <US_ID>1070</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1086</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1086</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1086</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1086</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="27">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/26</Unique_ID>
+    <US_ID>1073</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="28">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/27</Unique_ID>
-    <Sequenza_fisica_uguale_a>1075</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/28</Sequenza_fisica_uguale_a_unique_id>
+    <US_ID>1074</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1075</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1075</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1085</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1077</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/30</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1085</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1085</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1077</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1077</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1083</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/36</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1083</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1083</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1077</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/30</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1083; 1085</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/36; http://www.lynx.com/resource/stratigraphic-unit/38</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1077</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1077</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1083</value>
+      <value>1085</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1083</value>
+      <value>1085</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="29">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/28</Unique_ID>
+    <US_ID>1075</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1087</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_fisica_coperto_da_unique_id>
-    <Sequenza_fisica_copre>1078; 1077</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/30</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1078</value>
+      <value>1077</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1078</value>
+      <value>1077</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
-    <Sequenza_fisica_riempito_da>1083</Sequenza_fisica_riempito_da>
-    <Sequenza_fisica_riempito_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/36</Sequenza_fisica_riempito_da_unique_id>
+    <Sequenza_fisica_taglia_US_ID/>
+    <Sequenza_fisica_riempito_da>
+      <value>1083</value>
+    </Sequenza_fisica_riempito_da>
+    <Sequenza_fisica_riempito_da_US_ID>
+      <value>1083</value>
+    </Sequenza_fisica_riempito_da_US_ID>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1078; 1077</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/30</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1083; 1087</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/36; http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1078</value>
+      <value>1077</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1078</value>
+      <value>1077</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1083</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1083</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="30">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/29</Unique_ID>
+    <US_ID>1076</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1078; 1086</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_coperto_da_US_ID/>
+    <Sequenza_fisica_copre>
+      <value>1078</value>
+      <value>1086</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1078</value>
+      <value>1086</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1078; 1086</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/31; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_stratigrafica_posteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1078</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1078</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
     <Sequenza_stratigrafica_anteriore_a/>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_anteriore_a_US_ID/>
   </row>
   <row index="31">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/30</Unique_ID>
+    <US_ID>1077</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1053</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1085; 1087</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38; http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_fisica_coperto_da_unique_id>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1053</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1053</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1087</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1053</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1085; 1087</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/38; http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1053</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1053</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1085</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="32">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/31</Unique_ID>
+    <US_ID>1078</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1071</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1080; 1087; 1086</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/33; http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_coperto_da_unique_id>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1071</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1071</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1080</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1071</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1080; 1086; 1087</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/33; http://www.lynx.com/resource/stratigraphic-unit/39; http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1071</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1071</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1080</value>
+      <value>1086</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1080</value>
+      <value>1086</value>
+      <value>1087</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="33">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/32</Unique_ID>
+    <US_ID>1079</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1072</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1087; 1086</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_coperto_da_unique_id>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1072</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1072</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1072</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1087; 1086</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40; http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_stratigrafica_anteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1072</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1072</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1087</value>
+      <value>1086</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="34">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/33</Unique_ID>
+    <US_ID>1080</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1087</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_coperto_da_US_ID/>
+    <Sequenza_fisica_copre>
+      <value>1087</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1087</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1087</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/40</Sequenza_stratigrafica_posteriore_a_unique_id>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1087</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1087</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
     <Sequenza_stratigrafica_anteriore_a/>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_anteriore_a_US_ID/>
   </row>
   <row index="35">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/34</Unique_ID>
+    <US_ID>1081</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000; 1035</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1082</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id>http://www.lynx.com/resource/stratigraphic-unit/35</Sequenza_fisica_copre_unique_id>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+      <value>1035</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+      <value>1035</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1082</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1082</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1082</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/35</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>1000; 1035</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1082</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1082</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>1035</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="36">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/35</Unique_ID>
+    <US_ID>1082</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1016</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1016</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1016</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1016</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1016</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1016</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="37">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/36</Unique_ID>
+    <US_ID>1083</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000; - 1058</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+      <value>- 1058</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+      <value>- 1058</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="38">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/37</Unique_ID>
+    <US_ID>1084</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1023</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
+    <Sequenza_fisica_coperto_da>
+      <value>1023</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1023</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
-    <Sequenza_fisica_riempie>1021; 1022</Sequenza_fisica_riempie>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
+    <Sequenza_fisica_riempie>
+      <value>1021</value>
+      <value>1022</value>
+    </Sequenza_fisica_riempie>
+    <Sequenza_fisica_riempie_US_ID>
+      <value>1021</value>
+      <value>1022</value>
+    </Sequenza_fisica_riempie_US_ID>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
     <Sequenza_stratigrafica_anteriore_a/>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_anteriore_a_US_ID/>
   </row>
   <row index="39">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/38</Unique_ID>
-    <Sequenza_fisica_uguale_a>1035; 1086</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/39</Sequenza_fisica_uguale_a_unique_id>
+    <US_ID>1085</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1035</value>
+      <value>1086</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1035</value>
+      <value>1086</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1090</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_fisica_si_appoggia_a_unique_id>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1090</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1090</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1090</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id>http://www.lynx.com/resource/stratigraphic-unit/42</Sequenza_stratigrafica_posteriore_a_unique_id>
-    <Sequenza_stratigrafica_anteriore_a>-1031</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1090</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1090</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="40">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/39</Unique_ID>
-    <Sequenza_fisica_uguale_a>1035</Sequenza_fisica_uguale_a>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <US_ID>1086</US_ID>
+    <Sequenza_fisica_uguale_a>
+      <value>1035</value>
+    </Sequenza_fisica_uguale_a>
+    <Sequenza_fisica_uguale_a_US_ID>
+      <value>1035</value>
+    </Sequenza_fisica_uguale_a_US_ID>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
-    <Sequenza_fisica_tagliato_da>-1031</Sequenza_fisica_tagliato_da>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
+    <Sequenza_fisica_tagliato_da>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da>
+    <Sequenza_fisica_tagliato_da_US_ID>
+      <value>-1031</value>
+    </Sequenza_fisica_tagliato_da_US_ID>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>-1031</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>-1031</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="41">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/40</Unique_ID>
+    <US_ID>1087</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
     <Sequenza_fisica_si_appoggia_a/>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
+    <Sequenza_fisica_si_appoggia_a_US_ID/>
     <Sequenza_fisica_coperto_da/>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_coperto_da_US_ID/>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
     <Sequenza_stratigrafica_posteriore_a/>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
+    <Sequenza_stratigrafica_posteriore_a_US_ID/>
     <Sequenza_stratigrafica_anteriore_a/>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_stratigrafica_anteriore_a_US_ID/>
   </row>
   <row index="42">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/41</Unique_ID>
+    <US_ID>1088</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1001</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1033</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
-    <Sequenza_fisica_copre>1089</Sequenza_fisica_copre>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1001</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1001</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1033</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1033</value>
+    </Sequenza_fisica_coperto_da_US_ID>
+    <Sequenza_fisica_copre>
+      <value>1089</value>
+    </Sequenza_fisica_copre>
+    <Sequenza_fisica_copre_US_ID>
+      <value>1089</value>
+    </Sequenza_fisica_copre_US_ID>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1001; 1089</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1033</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1001</value>
+      <value>1089</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1001</value>
+      <value>1089</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1033</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1033</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
   <row index="43">
-    <Unique_ID>http://www.lynx.com/resource/stratigraphic-unit/42</Unique_ID>
+    <US_ID>1090</US_ID>
     <Sequenza_fisica_uguale_a/>
-    <Sequenza_fisica_uguale_a_unique_id/>
+    <Sequenza_fisica_uguale_a_US_ID/>
     <Sequenza_fisica_si_lega_a/>
-    <Sequenza_fisica_si_lega_a_unique_id/>
+    <Sequenza_fisica_si_lega_a_US_ID/>
     <Sequenza_fisica_gli_si_appoggia/>
-    <Sequenza_fisica_gli_si_appoggia_unique_id/>
-    <Sequenza_fisica_si_appoggia_a>1048</Sequenza_fisica_si_appoggia_a>
-    <Sequenza_fisica_si_appoggia_a_unique_id/>
-    <Sequenza_fisica_coperto_da>1000</Sequenza_fisica_coperto_da>
-    <Sequenza_fisica_coperto_da_unique_id/>
+    <Sequenza_fisica_gli_si_appoggia_US_ID/>
+    <Sequenza_fisica_si_appoggia_a>
+      <value>1048</value>
+    </Sequenza_fisica_si_appoggia_a>
+    <Sequenza_fisica_si_appoggia_a_US_ID>
+      <value>1048</value>
+    </Sequenza_fisica_si_appoggia_a_US_ID>
+    <Sequenza_fisica_coperto_da>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da>
+    <Sequenza_fisica_coperto_da_US_ID>
+      <value>1000</value>
+    </Sequenza_fisica_coperto_da_US_ID>
     <Sequenza_fisica_copre/>
-    <Sequenza_fisica_copre_unique_id/>
+    <Sequenza_fisica_copre_US_ID/>
     <Sequenza_fisica_tagliato_da/>
-    <Sequenza_fisica_tagliato_da_unique_id/>
+    <Sequenza_fisica_tagliato_da_US_ID/>
     <Sequenza_fisica_taglia/>
-    <Sequenza_fisica_taglia_unique_id/>
+    <Sequenza_fisica_taglia_US_ID/>
     <Sequenza_fisica_riempito_da/>
-    <Sequenza_fisica_riempito_da_unique_id/>
+    <Sequenza_fisica_riempito_da_US_ID/>
     <Sequenza_fisica_riempie/>
-    <Sequenza_fisica_riempie_unique_id/>
-    <Sequenza_stratigrafica_posteriore_a>1048</Sequenza_stratigrafica_posteriore_a>
-    <Sequenza_stratigrafica_posteriore_a_unique_id/>
-    <Sequenza_stratigrafica_anteriore_a>1000</Sequenza_stratigrafica_anteriore_a>
-    <Sequenza_stratigrafica_anteriore_a_unique_id/>
+    <Sequenza_fisica_riempie_US_ID/>
+    <Sequenza_stratigrafica_posteriore_a>
+      <value>1048</value>
+    </Sequenza_stratigrafica_posteriore_a>
+    <Sequenza_stratigrafica_posteriore_a_US_ID>
+      <value>1048</value>
+    </Sequenza_stratigrafica_posteriore_a_US_ID>
+    <Sequenza_stratigrafica_anteriore_a>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a>
+    <Sequenza_stratigrafica_anteriore_a_US_ID>
+      <value>1000</value>
+    </Sequenza_stratigrafica_anteriore_a_US_ID>
   </row>
 </scheda>

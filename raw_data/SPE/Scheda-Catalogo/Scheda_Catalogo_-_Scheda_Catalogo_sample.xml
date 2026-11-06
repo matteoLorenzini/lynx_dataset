@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheda>
+  <row index="2">
+    <Unique_ID>50232</Unique_ID>
+    <Project_ID>SPE_233</Project_ID>
+    <Inventory_ID>N/A</Inventory_ID>
+    <Classification>Frammento di capigliatura</Classification>
+    <Material>Marmo</Material>
+    <Manifacturing_marks>N/A</Manifacturing_marks>
+    <Technical_diagnostic_features>
+      <value>Lavorazione</value>
+      <value>Policromia</value>
+      <value>Perni</value>
+      <value>Riporti</value>
+    </Technical_diagnostic_features>
+    <Height>16</Height>
+    <Lenght>14</Lenght>
+    <Depth>3</Depth>
+    <Diameter/>
+    <State_of_preservation>Buone</State_of_preservation>
+    <Provenance>N/A</Provenance>
+    <Place_of_discovery>1</Place_of_discovery>
+    <Site_of_discovery>1</Site_of_discovery>
+    <Date_of_discovery>N/A</Date_of_discovery>
+    <Current_shelf_location>Scaffalatura centrale</Current_shelf_location>
+    <Current_box_location>22.n561.-1.0.1 “Frammenti non ricomponibili – Polifemo?”</Current_box_location>
+    <Chronology>N/A</Chronology>
+    <Bibliography/>
+    <Description>Si conservano buone tracce policromia (blu scuro) a separare le ciocche. Grandi ciocche, probabilmente pertinenti Polifemo</Description>
+    <Stylistic_notes>Test</Stylistic_notes>
+    <Status>Non Integro</Status>
+    <Archaemetric_analyses>No</Archaemetric_analyses>
+    <Photogrammetry>Yes</Photogrammetry>
+  </row>
+</scheda>

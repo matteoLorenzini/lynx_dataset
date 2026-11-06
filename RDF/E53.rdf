@@ -14,8 +14,8 @@
           <crm:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-place/site"/>
         </crm:P2_has_type>
         <crm:P168_place_is_defined_by>
-          <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.26553%2013.04268">
-            <rdfs:label>41.26553 13.04268</rdfs:label>
+          <rdfs:Literal rdf:about="http://www.lynx.com/resource/13.04268%2041.26553">
+            <rdfs:label>13.04268 41.26553</rdfs:label>
           </rdfs:Literal>
         </crm:P168_place_is_defined_by>
         <crm:P1_is_identified_by>
@@ -26,13 +26,13 @@
       </crm:E53_Place>
     </crm:P89_falls_within>
     <crm:P168_place_is_defined_by>
-      <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.30023%2013.02802">
-        <rdfs:label>41.30023 13.02802</rdfs:label>
+      <rdfs:Literal rdf:about="http://www.lynx.com/resource/13.02802%2041.30023">
+        <rdfs:label>13.02802 41.30023</rdfs:label>
       </rdfs:Literal>
     </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2/Sabaudia">
-        <rdfs:label>Sabaudia</rdfs:label>
+        <skos:prefLabel>Sabaudia</skos:prefLabel>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
     <crm:P2_has_type>
@@ -44,8 +44,8 @@
       <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-site/1">
         <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/site"/>
         <crm:P168_place_is_defined_by>
-          <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.251064%2013.45011">
-            <rdfs:label>41.251064 13.45011</rdfs:label>
+          <rdfs:Literal rdf:about="http://www.lynx.com/resource/13.45011%2041.251064">
+            <rdfs:label>13.45011 41.251064</rdfs:label>
           </rdfs:Literal>
         </crm:P168_place_is_defined_by>
         <crm:P1_is_identified_by>
@@ -56,13 +56,13 @@
       </crm:E53_Place>
     </crm:P89_falls_within>
     <crm:P168_place_is_defined_by>
-      <rdfs:Literal rdf:about="http://www.lynx.com/resource/41.25837%2013.43351">
-        <rdfs:label>41.25837 13.43351</rdfs:label>
+      <rdfs:Literal rdf:about="http://www.lynx.com/resource/13.43351%2041.25837">
+        <rdfs:label>13.43351 41.25837</rdfs:label>
       </rdfs:Literal>
     </crm:P168_place_is_defined_by>
     <crm:P1_is_identified_by>
       <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/cultural-heritage-place/1/Sperlonga">
-        <rdfs:label>Sperlonga</rdfs:label>
+        <skos:prefLabel>Sperlonga</skos:prefLabel>
       </crm:E41_Appellation>
     </crm:P1_is_identified_by>
     <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/cultural-heritage-place/place"/>
