@@ -5,10 +5,18 @@
     <Persons>
       <Person id="person-friedrich-matz">
         <Name>Friedrich Matz</Name>
+        <Relation>teacher</Relation>
         <Source row="2" field="BIOGRAPHY">Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</Source>
       </Person>
     </Persons>
     <Places>
+      <Place id="place-baiae">
+        <Name>Baiae</Name>
+        <Role ref="role-5">
+          <Title>Scientific Director</Title>
+        </Role>
+        <Source row="2" field="BIOGRAPHY">This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</Source>
+      </Place>
       <Place id="place-bochum">
         <Name>Bochum</Name>
         <Role ref="role-2">
@@ -17,7 +25,7 @@
           <To>1977</To>
         </Role>
         <Source row="2" field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source row="2" field="ROLE">professor at Bochum (1965-1977)</Source>
+        <Source row="2" field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Place>
       <Place id="place-marburg">
         <Name>Marburg</Name>
@@ -25,13 +33,13 @@
           <Title>Professor</Title>
           <From>1978</From>
         </Role>
-        <Role ref="role-6">
+        <Role ref="role-7">
           <Title>Professor</Title>
           <From>1978</From>
           <To>1985</To>
         </Role>
         <Source row="2" field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source row="2" field="ROLE">and Marburg (1978-1985)</Source>
+        <Source row="2" field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Place>
       <Place id="place-rome">
         <Name>Rome</Name>
@@ -41,15 +49,7 @@
           <To>1995</To>
         </Role>
         <Source row="2" field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source row="2" field="ROLE">and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
-      </Place>
-      <Place id="place-sperlonga">
-        <Name>Sperlonga</Name>
-        <Source row="2" field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
-      </Place>
-      <Place id="place-tiberius-s-villa-in-sperlonga">
-        <Name>Tiberius's Villa in Sperlonga</Name>
-        <Source row="2" field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
+        <Source row="2" field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Place>
     </Places>
     <Organizations>
@@ -60,8 +60,12 @@
           <From>1984</From>
           <To>1995</To>
         </Role>
+        <Role ref="role-5">
+          <Title>Scientific Director</Title>
+        </Role>
         <Source row="2" field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source row="2" field="ROLE">and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
+        <Source row="2" field="BIOGRAPHY">This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</Source>
+        <Source row="2" field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Organization>
       <Organization id="org-german-archaeological-institute-in-italy">
         <Name>German Archaeological Institute in Italy</Name>
@@ -71,10 +75,6 @@
           <To>1959</To>
         </Role>
         <Source row="2" field="BIOGRAPHY">From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.</Source>
-      </Organization>
-      <Organization id="org-rome-soprintendenza">
-        <Name>Rome Soprintendenza</Name>
-        <Source row="2" field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
       </Organization>
     </Organizations>
     <Roles>
@@ -91,7 +91,7 @@
         <From>1965</From>
         <To>1977</To>
         <Source field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source field="ROLE">professor at Bochum (1965-1977)</Source>
+        <Source field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Role>
       <Role id="role-3" row="2">
         <Title>Professor</Title>
@@ -106,39 +106,43 @@
         <From>1984</From>
         <To>1995</To>
         <Source field="BIOGRAPHY">This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</Source>
-        <Source field="ROLE">and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
+        <Source field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Role>
       <Role id="role-5" row="2">
+        <Title>Scientific Director</Title>
+        <Organization ref="org-german-archaeological-institute" />
+        <Place ref="place-baiae" />
+        <Source field="BIOGRAPHY">This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</Source>
+      </Role>
+      <Role id="role-6" row="2">
         <Title>Archeologist</Title>
         <Source field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Role>
-      <Role id="role-6" row="2">
+      <Role id="role-7" row="2">
         <Title>Professor</Title>
         <Place ref="place-marburg" />
         <From>1978</From>
         <To>1985</To>
-        <Source field="ROLE">and Marburg (1978-1985)</Source>
-      </Role>
-      <Role id="role-7" row="2">
-        <Title>tracked</Title>
-        <Source field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
+        <Source field="ROLE">Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</Source>
       </Role>
     </Roles>
-    <Events>
-      <Event id="event-1" row="2">
-        <Label>Graduation</Label>
-        <Source field="BIOGRAPHY">Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</Source>
-      </Event>
-      <Event id="event-2" row="2">
-        <Label>Excavations</Label>
-        <Source field="BIOGRAPHY">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
-        <Source field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
-      </Event>
-    </Events>
     <Works>
       <Work id="work-1">
-        <Title>complex reconstructions of the Hellenistic-Roman sculpture groups</Title>
-        <Source row="2" field="CONTRIBUTION">In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
+        <Title>Neue Forschungen in Pompeji</Title>
+        <From>1974</From>
+        <Relation>cited</Relation>
+        <Source row="2" field="BIOGRAPHY">His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</Source>
+      </Work>
+      <Work id="work-2">
+        <Title>Alexander Mosaic</Title>
+        <From>1977</From>
+        <Relation>cited</Relation>
+        <Source row="2" field="BIOGRAPHY">His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</Source>
+      </Work>
+      <Work id="work-3">
+        <Title>excavations at Tiberius's Villa in Sperlonga</Title>
+        <Relation>excavation report</Relation>
+        <Source row="2" field="CONTRIBUTION">he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</Source>
       </Work>
     </Works>
   </row>
