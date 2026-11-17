@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<roles>
+  <role id="29b8bb68a33a" source_field="BIOGRAPHY">
+    <subject ref="bernard-andreae" />
+    <type ref="role-assistant" />
+    <label>Assistant at German Archaeological Institute, Italy – Bernard Andreae</label>
+    <timespan id="29b8bb68a33a-ts">
+      <label>1956–1959</label>
+      <begin>1956-01-01T00:00:00</begin>
+      <end>1959-12-31T23:59:59</end>
+    </timespan>
+    <place ref="italy" />
+    <organization ref="german-archaeological-institute" />
+    <note>From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.</note>
+  </role>
+  <role id="3e33f24b2bdc" source_field="BIOGRAPHY ROLE">
+    <subject ref="bernard-andreae" />
+    <type ref="role-professor" />
+    <label>Professor at Bochum – Bernard Andreae</label>
+    <timespan id="3e33f24b2bdc-ts">
+      <label>1965–1977</label>
+      <begin>1965-01-01T00:00:00</begin>
+      <end>1977-12-31T23:59:59</end>
+    </timespan>
+    <place ref="bochum" />
+    <note>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</note>
+  </role>
+  <role id="d147c1842844" source_field="BIOGRAPHY ROLE">
+    <subject ref="bernard-andreae" />
+    <type ref="role-professor" />
+    <label>Professor at Marburg – Bernard Andreae</label>
+    <timespan id="d147c1842844-ts">
+      <label>1978–1985</label>
+      <begin>1978-01-01T00:00:00</begin>
+      <end>1985-12-31T23:59:59</end>
+    </timespan>
+    <place ref="marburg" />
+    <note>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</note>
+  </role>
+  <role id="406ea580e827" source_field="BIOGRAPHY">
+    <subject ref="bernard-andreae" />
+    <type ref="role-professor" />
+    <label>Professor at German Archaeological Institute, Rome – Bernard Andreae</label>
+    <timespan id="406ea580e827-ts">
+      <label>1984–1995</label>
+      <begin>1984-01-01T00:00:00</begin>
+      <end>1995-12-31T23:59:59</end>
+    </timespan>
+    <place ref="rome" />
+    <organization ref="german-archaeological-institute" />
+    <note>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</note>
+  </role>
+  <role id="c0079acabdfe" source_field="ROLE">
+    <subject ref="bernard-andreae" />
+    <type ref="role-director" />
+    <label>Director at German Archaeological Institute, Rome – Bernard Andreae</label>
+    <timespan id="c0079acabdfe-ts">
+      <label>1984–1995</label>
+      <begin>1984-01-01T00:00:00</begin>
+      <end>1995-12-31T23:59:59</end>
+    </timespan>
+    <place ref="rome" />
+    <organization ref="german-archaeological-institute" />
+    <note>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</note>
+  </role>
+</roles>

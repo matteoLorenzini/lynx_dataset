@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<types>
+  <type id="role-assistant" kind="role">
+    <label>Assistant</label>
+  </type>
+  <type id="event-graduation" kind="event">
+    <label>Graduation</label>
+  </type>
+  <type id="participant-role-teacher" kind="participant-role">
+    <label>Teacher</label>
+  </type>
+  <type id="event-habilitation" kind="event">
+    <label>Habilitation</label>
+  </type>
+  <type id="participant-role-mentor" kind="participant-role">
+    <label>Mentor</label>
+  </type>
+  <type id="role-professor" kind="role">
+    <label>Professor</label>
+  </type>
+  <type id="event-excavation" kind="event">
+    <label>Excavation</label>
+  </type>
+  <type id="role-director" kind="role">
+    <label>Director</label>
+  </type>
+  <type id="occupation-scientific-director" kind="occupation">
+    <label>Scientific director</label>
+  </type>
+</types>

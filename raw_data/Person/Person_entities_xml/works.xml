@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<works>
+  <work id="esquiline-fresco-cycle" source_field="BIOGRAPHY">
+    <title>Esquiline fresco cycle</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="esquiline-fresco-cycle-creation-ts">
+      <label>1962</label>
+      <begin>1962-01-01T00:00:00</begin>
+      <end>1962-12-31T23:59:59</end>
+    </timespan>
+    <note>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</note>
+  </work>
+  <work id="aldobrandini-wedding" source_field="BIOGRAPHY">
+    <title>Aldobrandini Wedding</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="aldobrandini-wedding-creation-ts">
+      <label>1962</label>
+      <begin>1962-01-01T00:00:00</begin>
+      <end>1962-12-31T23:59:59</end>
+    </timespan>
+    <note>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</note>
+  </work>
+  <work id="ad-sarcophagi" source_field="BIOGRAPHY">
+    <title>AD sarcophagi</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="ad-sarcophagi-creation-ts">
+      <label>1970</label>
+      <begin>1970-01-01T00:00:00</begin>
+      <end>1970-12-31T23:59:59</end>
+    </timespan>
+    <note>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</note>
+  </work>
+  <work id="alexander-mosaic" source_field="BIOGRAPHY">
+    <title>Alexander Mosaic</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="alexander-mosaic-creation-ts">
+      <label>1977</label>
+      <begin>1977-01-01T00:00:00</begin>
+      <end>1977-12-31T23:59:59</end>
+    </timespan>
+    <note>His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</note>
+  </work>
+  <work id="odysseus-archaologie-des-europaischen-mythos" source_field="BIOGRAPHY">
+    <title>Odysseus: Archäologie des europäischen Mythos</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="odysseus-archaologie-des-europaischen-mythos-creation-ts">
+      <label>1982</label>
+      <begin>1982-01-01T00:00:00</begin>
+      <end>1982-12-31T23:59:59</end>
+    </timespan>
+    <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</note>
+  </work>
+  <work id="limmagine-di-ulisse" source_field="BIOGRAPHY">
+    <title>L’immagine di Ulisse</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="limmagine-di-ulisse-creation-ts">
+      <label>1983</label>
+      <begin>1983-01-01T00:00:00</begin>
+      <end>1983-12-31T23:59:59</end>
+    </timespan>
+    <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</note>
+  </work>
+  <work id="laokoon-und-die-grundung-roms" source_field="BIOGRAPHY">
+    <title>Laokoon und die Gründung Roms</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="laokoon-und-die-grundung-roms-creation-ts">
+      <label>1988</label>
+      <begin>1988-01-01T00:00:00</begin>
+      <end>1988-12-31T23:59:59</end>
+    </timespan>
+    <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</note>
+  </work>
+  <work id="laocoonte-e-la-fondazione-di-roma" source_field="BIOGRAPHY">
+    <title>Laocoonte e la fondazione di Roma</title>
+    <creator ref="bernard-andreae" />
+    <timespan id="laocoonte-e-la-fondazione-di-roma-creation-ts">
+      <label>1989</label>
+      <begin>1989-01-01T00:00:00</begin>
+      <end>1989-12-31T23:59:59</end>
+    </timespan>
+    <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</note>
+  </work>
+  <work id="studien-zur-roemischen-grabkunst" source_field="BIOGRAPHY">
+    <title>Studien zur roemischen Grabkunst</title>
+    <creator ref="bernard-andreae" />
+    <note>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</note>
+  </work>
+  <work id="die-antiken-sarkophagreliefs" source_field="BIOGRAPHY">
+    <title>Die antiken Sarkophagreliefs</title>
+    <creator ref="bernard-andreae" />
+    <note>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</note>
+  </work>
+  <work id="die-romischen-jagdsarkophage" source_field="BIOGRAPHY">
+    <title>Die römischen Jagdsarkophage</title>
+    <creator ref="bernard-andreae" />
+    <note>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</note>
+  </work>
+</works>

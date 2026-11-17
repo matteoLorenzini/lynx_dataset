@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<organizations>
+  <organization id="german-archaeological-institute">
+    <name>German Archaeological Institute</name>
+  </organization>
+  <organization id="rome-soprintendenza">
+    <name>Rome Soprintendenza</name>
+  </organization>
+</organizations>

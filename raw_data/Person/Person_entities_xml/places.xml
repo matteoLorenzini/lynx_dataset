@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<places>
+  <place id="italy">
+    <name>Italy</name>
+  </place>
+  <place id="marburg">
+    <name>Marburg</name>
+  </place>
+  <place id="bonn">
+    <name>Bonn</name>
+  </place>
+  <place id="bochum">
+    <name>Bochum</name>
+  </place>
+  <place id="tiberius-s-villa-in-sperlonga">
+    <name>Tiberius's Villa in Sperlonga</name>
+  </place>
+  <place id="rome">
+    <name>Rome</name>
+  </place>
+  <place id="baiae">
+    <name>Baiae</name>
+  </place>
+</places>

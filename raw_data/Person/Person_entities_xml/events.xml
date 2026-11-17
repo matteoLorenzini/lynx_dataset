@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<events>
+  <event id="7f6993f923b2" kind="event" source_field="BIOGRAPHY" detected_by="rule">
+    <subject ref="bernard-andreae" />
+    <type ref="event-graduation" />
+    <label>Graduation at Marburg – Bernard Andreae</label>
+    <timespan id="7f6993f923b2-ts">
+      <label>1956</label>
+      <begin>1956-01-01T00:00:00</begin>
+      <end>1956-12-31T23:59:59</end>
+    </timespan>
+    <place ref="marburg" />
+    <participant ref="friedrich-matz" role="participant-role-teacher" />
+    <note>Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</note>
+  </event>
+  <event id="371c340be361" kind="event" source_field="BIOGRAPHY" detected_by="rule">
+    <subject ref="bernard-andreae" />
+    <type ref="event-habilitation" />
+    <label>Habilitation at Bonn – Bernard Andreae</label>
+    <timespan id="371c340be361-ts">
+      <label>1962</label>
+      <begin>1962-01-01T00:00:00</begin>
+      <end>1962-12-31T23:59:59</end>
+    </timespan>
+    <place ref="bonn" />
+    <participant ref="friedrich-matz" role="participant-role-mentor" />
+    <participant ref="reinhard-herbig" role="participant-role-mentor" />
+    <participant ref="ernst-langlotz" role="participant-role-mentor" />
+    <note>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</note>
+  </event>
+  <event id="084a041899e5" kind="event" source_field="BIOGRAPHY CONTRIBUTION" detected_by="rule">
+    <subject ref="bernard-andreae" />
+    <type ref="event-excavation" />
+    <label>Excavation at Tiberius's Villa in Sperlonga – Bernard Andreae</label>
+    <timespan id="084a041899e5-ts">
+      <label>1970–1989</label>
+      <begin>1970-01-01T00:00:00</begin>
+      <end>1989-12-31T23:59:59</end>
+    </timespan>
+    <place ref="tiberius-s-villa-in-sperlonga" />
+    <organization ref="rome-soprintendenza" />
+    <note>In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</note>
+  </event>
+  <event id="babe2ba4cbdd" kind="event" source_field="BIOGRAPHY" detected_by="rule">
+    <subject ref="bernard-andreae" />
+    <type ref="event-excavation" />
+    <label>Excavation at Baiae – Bernard Andreae</label>
+    <place ref="baiae" />
+    <note>This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</note>
+  </event>
+</events>
