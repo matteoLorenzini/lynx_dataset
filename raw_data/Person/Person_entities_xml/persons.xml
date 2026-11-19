@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+  <person id="bernard-andreae" subject="true">
+    <name>Bernard Andreae</name>
+    <occupation ref="occupation-scientific-director" />
+  </person>
+  <person id="friedrich-matz">
+    <name>Friedrich Matz</name>
+  </person>
+  <person id="reinhard-herbig">
+    <name>Reinhard Herbig</name>
+  </person>
+  <person id="ernst-langlotz">
+    <name>Ernst Langlotz</name>
+  </person>
+</persons>

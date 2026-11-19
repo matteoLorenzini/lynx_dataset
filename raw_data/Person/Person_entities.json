@@ -1,134 +1,12 @@
 {
   "version": 1,
-  "model": "qwen2.5:7b",
+  "model": "gliner:urchade/gliner_multi-v2.1",
   "items": {
-    "22502d5d3f0b25a7589fdf599b9fab58a3ccc58c9ed99aca8a5939832b5e382f": {
+    "27d7aff0b6b8cc73a27233c139e240c53d293865c30f3b081578d0582888659a": {
       "field": "BIOGRAPHY",
-      "preview": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializin",
-      "entities": [
-        {
-          "type": "event",
-          "value": "Graduation",
-          "context": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography."
-        },
-        {
-          "type": "role",
-          "value": "Assistant",
-          "context": "From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.",
-          "from": "1956",
-          "to": "1959",
-          "organization": "German Archaeological Institute in Italy"
-        },
-        {
-          "type": "role",
-          "value": "Professor",
-          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
-          "from": "1965",
-          "to": "1977",
-          "place": "Bochum"
-        },
-        {
-          "type": "role",
-          "value": "Professor",
-          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
-          "from": "1978",
-          "place": "Marburg"
-        },
-        {
-          "type": "role",
-          "value": "Director",
-          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
-          "from": "1984",
-          "to": "1995",
-          "place": "Rome",
-          "organization": "German Archaeological Institute"
-        },
-        {
-          "type": "event",
-          "value": "Excavations",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "person",
-          "value": "Friedrich Matz",
-          "context": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography."
-        }
-      ]
-    },
-    "b75006bf84b996d9b812baee300ea38c0811e3b75029ef81858332d27c7cc782": {
-      "field": "ROLE",
-      "preview": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then ",
-      "entities": [
-        {
-          "type": "role",
-          "value": "Archeologist",
-          "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
-        },
-        {
-          "type": "role",
-          "value": "Professor",
-          "context": "professor at Bochum (1965-1977)",
-          "from": "1965",
-          "to": "1977",
-          "place": "Bochum"
-        },
-        {
-          "type": "role",
-          "value": "Professor",
-          "context": "and Marburg (1978-1985)",
-          "from": "1978",
-          "to": "1985",
-          "place": "Marburg"
-        },
-        {
-          "type": "role",
-          "value": "Director",
-          "context": "and then Director of the German Archaeological Institute in Rome (1984-1995).",
-          "from": "1984",
-          "to": "1995",
-          "place": "Rome",
-          "organization": "German Archaeological Institute"
-        }
-      ]
-    },
-    "0177d12817c6c23c35ef012d530a5fc5925c3adb740edb094a61b49393f22f99": {
-      "field": "CONTRIBUTION",
-      "preview": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tibe",
-      "entities": [
-        {
-          "type": "event",
-          "value": "excavations",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "place",
-          "value": "Tiberius's Villa in Sperlonga",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "work",
-          "value": "complex reconstructions of the Hellenistic-Roman sculpture groups",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "organization",
-          "value": "Rome Soprintendenza",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "place",
-          "value": "Sperlonga",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        },
-        {
-          "type": "role",
-          "value": "tracked",
-          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
-        }
-      ]
-    },
-    "21c4e360faacb35de99738b174de7ec4eb8406b81c19f6b9fe169fe496604fc3": {
-      "field": "BIOGRAPHY",
+      "subject": "Bernard Andreae",
+      "subject_id": "1000",
+      "extractor": "gliner:urchade/gliner_multi-v2.1",
       "preview": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializin",
       "entities": [
         {
@@ -138,12 +16,110 @@
           "relation": "teacher"
         },
         {
+          "type": "place",
+          "value": "Marburg",
+          "context": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography."
+        },
+        {
+          "type": "organization",
+          "value": "German Archaeological Institute",
+          "context": "From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy."
+        },
+        {
+          "type": "place",
+          "value": "Italy",
+          "context": "From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy."
+        },
+        {
           "type": "role",
           "value": "Assistant",
           "context": "From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.",
           "from": "1956",
           "to": "1959",
-          "organization": "German Archaeological Institute in Italy"
+          "place": "Italy",
+          "organization": "German Archaeological Institute"
+        },
+        {
+          "type": "person",
+          "value": "Friedrich Matz",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.",
+          "relation": "mentor"
+        },
+        {
+          "type": "person",
+          "value": "Reinhard Herbig",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.",
+          "relation": "mentor"
+        },
+        {
+          "type": "person",
+          "value": "Ernst Langlotz",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.",
+          "relation": "mentor"
+        },
+        {
+          "type": "place",
+          "value": "Bonn",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz."
+        },
+        {
+          "type": "work",
+          "value": "Studien zur roemischen Grabkunst",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.",
+          "from": "1962"
+        },
+        {
+          "type": "work",
+          "value": "Esquiline fresco cycle",
+          "context": "Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).",
+          "from": "1962"
+        },
+        {
+          "type": "work",
+          "value": "Aldobrandini Wedding",
+          "context": "Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).",
+          "from": "1962"
+        },
+        {
+          "type": "work",
+          "value": "AD sarcophagi",
+          "context": "Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).",
+          "from": "1970"
+        },
+        {
+          "type": "organization",
+          "value": "Rome Soprintendenza",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
+        },
+        {
+          "type": "place",
+          "value": "Tiberius's Villa in Sperlonga",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
+        },
+        {
+          "type": "person",
+          "value": "Director",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995)."
+        },
+        {
+          "type": "place",
+          "value": "Bochum",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995)."
+        },
+        {
+          "type": "place",
+          "value": "Marburg",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995)."
+        },
+        {
+          "type": "organization",
+          "value": "German Archaeological Institute",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995)."
+        },
+        {
+          "type": "place",
+          "value": "Rome",
+          "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995)."
         },
         {
           "type": "role",
@@ -162,7 +138,7 @@
         },
         {
           "type": "role",
-          "value": "Director",
+          "value": "Professor",
           "context": "This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).",
           "from": "1984",
           "to": "1995",
@@ -170,35 +146,153 @@
           "organization": "German Archaeological Institute"
         },
         {
-          "type": "work",
-          "value": "Neue Forschungen in Pompeji",
-          "context": "His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.",
-          "from": "1974",
-          "relation": "cited"
+          "type": "place",
+          "value": "Pompeji",
+          "context": "His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism."
         },
         {
           "type": "work",
           "value": "Alexander Mosaic",
           "context": "His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.",
-          "from": "1977",
-          "relation": "cited"
+          "from": "1977"
+        },
+        {
+          "type": "place",
+          "value": "Baiae",
+          "context": "This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research."
         },
         {
           "type": "role",
-          "value": "Scientific Director",
+          "value": "Scientific director",
+          "context": "This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research."
+        },
+        {
+          "type": "person",
+          "value": "Giorgio Bejor",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989)."
+        },
+        {
+          "type": "work",
+          "value": "Odysseus: Archäologie des europäischen Mythos",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989).",
+          "from": "1982"
+        },
+        {
+          "type": "work",
+          "value": "L’immagine di Ulisse",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989).",
+          "from": "1983"
+        },
+        {
+          "type": "organization",
+          "value": "Einaudi",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989)."
+        },
+        {
+          "type": "organization",
+          "value": "Sperlonga group",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989)."
+        },
+        {
+          "type": "work",
+          "value": "Laokoon und die Gründung Roms",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989).",
+          "from": "1988"
+        },
+        {
+          "type": "work",
+          "value": "Laocoonte e la fondazione di Roma",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989).",
+          "from": "1989"
+        },
+        {
+          "type": "organization",
+          "value": "Il Saggiatore",
+          "context": "On these themes, he published \"Odysseus: Archäologie des europäischen Mythos\" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. \"L’immagine di Ulisse\", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and \"Laokoon und die Gründung Roms\" (1988; Italian trans. \"Laocoonte e la fondazione di Roma\", Il Saggiatore 1989)."
+        },
+        {
+          "type": "work",
+          "value": "Die antiken Sarkophagreliefs",
+          "context": "Since 1974, he has edited the Roman sarcophagi corpus \"Die antiken Sarkophagreliefs\", authoring the 1980 volume on hunting scenes (\"Die römischen Jagdsarkophage\": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 )."
+        },
+        {
+          "type": "work",
+          "value": "Die römischen Jagdsarkophage",
+          "context": "Since 1974, he has edited the Roman sarcophagi corpus \"Die antiken Sarkophagreliefs\", authoring the 1980 volume on hunting scenes (\"Die römischen Jagdsarkophage\": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 )."
+        },
+        {
+          "type": "event",
+          "value": "Graduation",
+          "context": "Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.",
+          "detected_by": "rule",
+          "date": "1956",
+          "place": "Marburg",
+          "participants": [
+            "Friedrich Matz"
+          ]
+        },
+        {
+          "type": "event",
+          "value": "Habilitation",
+          "context": "In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art (\"Studien zur roemischen Grabkunst\"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.",
+          "detected_by": "rule",
+          "date": "1962",
+          "place": "Bonn",
+          "participants": [
+            "Friedrich Matz",
+            "Reinhard Herbig",
+            "Ernst Langlotz"
+          ]
+        },
+        {
+          "type": "event",
+          "value": "Excavation",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.",
+          "detected_by": "rule",
+          "from": "1970",
+          "to": "1989",
+          "place": "Tiberius's Villa in Sperlonga",
+          "organization": "Rome Soprintendenza"
+        },
+        {
+          "type": "event",
+          "value": "Excavation",
           "context": "This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.",
-          "place": "Baiae",
-          "organization": "German Archaeological Institute"
+          "detected_by": "rule",
+          "place": "Baiae"
         }
       ]
     },
-    "7033d900ca7587a38423fa8ceb14d80f333b2a7f5c34cd61c15adaa979871c04": {
+    "2ca47f4061f3462fe1ba4a05254ce07b46377d73d2d63732aba563129a1f5798": {
       "field": "ROLE",
+      "subject": "Bernard Andreae",
+      "subject_id": "1000",
+      "extractor": "gliner:urchade/gliner_multi-v2.1",
       "preview": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then ",
       "entities": [
         {
-          "type": "role",
+          "type": "person",
           "value": "Archeologist",
+          "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
+        },
+        {
+          "type": "place",
+          "value": "Bochum",
+          "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
+        },
+        {
+          "type": "place",
+          "value": "Marburg",
+          "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
+        },
+        {
+          "type": "organization",
+          "value": "German Archaeological Institute",
+          "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
+        },
+        {
+          "type": "place",
+          "value": "Rome",
           "context": "Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995)."
         },
         {
@@ -228,15 +322,32 @@
         }
       ]
     },
-    "439f3bafde21d2c633919b92f8edb1b461489ddd3f9e527e67d6c1d2d1d785ae": {
+    "340eab9a64a4733c2e5cab39793a3daee4c75e6d2e8887813eeda286cd333251": {
       "field": "CONTRIBUTION",
+      "subject": "Bernard Andreae",
+      "subject_id": "1000",
+      "extractor": "gliner:urchade/gliner_multi-v2.1",
       "preview": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tibe",
       "entities": [
         {
-          "type": "work",
-          "value": "excavations at Tiberius's Villa in Sperlonga",
-          "context": "he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.",
-          "relation": "excavation report"
+          "type": "organization",
+          "value": "Rome Soprintendenza",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
+        },
+        {
+          "type": "place",
+          "value": "Tiberius's Villa in Sperlonga",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups."
+        },
+        {
+          "type": "event",
+          "value": "Excavation",
+          "context": "In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.",
+          "detected_by": "rule",
+          "from": "1970",
+          "to": "1989",
+          "place": "Tiberius's Villa in Sperlonga",
+          "organization": "Rome Soprintendenza"
         }
       ]
     }

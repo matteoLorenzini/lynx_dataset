@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <record id="bernard-andreae">
+    <subject id="bernard-andreae">
+      <name>Bernard Andreae</name>
+    </subject>
+    <event id="7f6993f923b2" source_field="BIOGRAPHY" detected_by="rule">
+      <type id="graduation">Graduation</type>
+      <label>Graduation at Marburg – Bernard Andreae</label>
+      <timespan id="7f6993f923b2-ts">
+        <label>1956</label>
+        <begin>1956-01-01T00:00:00</begin>
+        <end>1956-12-31T23:59:59</end>
+      </timespan>
+      <place id="marburg">Marburg</place>
+      <participants>
+        <participant id="friedrich-matz">
+          <name>Friedrich Matz</name>
+          <role id="teacher">Teacher</role>
+        </participant>
+      </participants>
+      <note>Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</note>
+    </event>
+    <role id="29b8bb68a33a" source_field="BIOGRAPHY">
+      <type id="assistant">Assistant</type>
+      <label>Assistant at German Archaeological Institute, Italy – Bernard Andreae</label>
+      <timespan id="29b8bb68a33a-ts">
+        <label>1956–1959</label>
+        <begin>1956-01-01T00:00:00</begin>
+        <end>1959-12-31T23:59:59</end>
+      </timespan>
+      <place id="italy">Italy</place>
+      <organization id="german-archaeological-institute">German Archaeological Institute</organization>
+      <note>From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.</note>
+    </role>
+    <event id="371c340be361" source_field="BIOGRAPHY" detected_by="rule">
+      <type id="habilitation">Habilitation</type>
+      <label>Habilitation at Bonn – Bernard Andreae</label>
+      <timespan id="371c340be361-ts">
+        <label>1962</label>
+        <begin>1962-01-01T00:00:00</begin>
+        <end>1962-12-31T23:59:59</end>
+      </timespan>
+      <place id="bonn">Bonn</place>
+      <participants>
+        <participant id="friedrich-matz">
+          <name>Friedrich Matz</name>
+          <role id="teacher">Teacher</role>
+        </participant>
+        <participant id="reinhard-herbig">
+          <name>Reinhard Herbig</name>
+        </participant>
+        <participant id="ernst-langlotz">
+          <name>Ernst Langlotz</name>
+        </participant>
+      </participants>
+      <note>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</note>
+    </event>
+    <work id="esquiline-fresco-cycle" source_field="BIOGRAPHY">
+      <title>Esquiline fresco cycle</title>
+      <creation id="esquiline-fresco-cycle-creation-bernard-andreae">
+        <timespan id="esquiline-fresco-cycle-creation-bernard-andreae-ts">
+          <label>1962</label>
+          <begin>1962-01-01T00:00:00</begin>
+          <end>1962-12-31T23:59:59</end>
+        </timespan>
+      </creation>
+      <note>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs.</note>
+    </work>
+    <work id="aldobrandini-wedding" source_field="BIOGRAPHY">
+      <title>Aldobrandini Wedding</title>
+      <creation id="aldobrandini-wedding-creation-bernard-andreae">
+        <timespan id="aldobrandini-wedding-creation-bernard-andreae-ts">
+          <label>1962</label>
+          <begin>1962-01-01T00:00:00</begin>
+          <end>1962-12-31T23:59:59</end>
+        </timespan>
+      </creation>
+      <note>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs.</note>
+    </work>
+    <role id="3e33f24b2bdc" source_field="ROLE">
+      <type id="professor">Professor</type>
+      <label>Professor at Bochum – Bernard Andreae</label>
+      <timespan id="3e33f24b2bdc-ts">
+        <label>1965–1977</label>
+        <begin>1965-01-01T00:00:00</begin>
+        <end>1977-12-31T23:59:59</end>
+      </timespan>
+      <place id="bochum">Bochum</place>
+      <note>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</note>
+    </role>
+    <event id="58a94379e0cc" source_field="BIOGRAPHY CONTRIBUTION" detected_by="rule">
+      <type id="excavation">Excavation</type>
+      <label>Excavation at Villa in Sperlonga – Bernard Andreae</label>
+      <timespan id="58a94379e0cc-ts">
+        <label>1970–1989</label>
+        <begin>1970-01-01T00:00:00</begin>
+        <end>1989-12-31T23:59:59</end>
+      </timespan>
+      <place id="villa-in-sperlonga">Villa in Sperlonga</place>
+      <organization id="rome-soprintendenza">Rome Soprintendenza</organization>
+      <participants>
+        <participant id="tiberius">
+          <name>Tiberius</name>
+        </participant>
+      </participants>
+      <note>In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</note>
+    </event>
+    <work id="new-edition-of-the-alexander-mosaic" source_field="BIOGRAPHY">
+      <title>new edition of the Alexander Mosaic</title>
+      <creation id="new-edition-of-the-alexander-mosaic-creation-bernard-andreae">
+        <timespan id="new-edition-of-the-alexander-mosaic-creation-bernard-andreae-ts">
+          <label>1977</label>
+          <begin>1977-01-01T00:00:00</begin>
+          <end>1977-12-31T23:59:59</end>
+        </timespan>
+      </creation>
+      <note>His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</note>
+    </work>
+    <role id="d147c1842844" source_field="ROLE">
+      <type id="professor">Professor</type>
+      <label>Professor at Marburg – Bernard Andreae</label>
+      <timespan id="d147c1842844-ts">
+        <label>1978–1985</label>
+        <begin>1978-01-01T00:00:00</begin>
+        <end>1985-12-31T23:59:59</end>
+      </timespan>
+      <place id="marburg">Marburg</place>
+      <note>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</note>
+    </role>
+    <role id="406ea580e827" source_field="ROLE">
+      <type id="professor">Professor</type>
+      <label>Professor at German Archaeological Institute, Rome – Bernard Andreae</label>
+      <timespan id="406ea580e827-ts">
+        <label>1984–1995</label>
+        <begin>1984-01-01T00:00:00</begin>
+        <end>1995-12-31T23:59:59</end>
+      </timespan>
+      <place id="rome">Rome</place>
+      <organization id="german-archaeological-institute">German Archaeological Institute</organization>
+      <note>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</note>
+    </role>
+    <work id="il-saggiatore" source_field="BIOGRAPHY">
+      <title>Il Saggiatore</title>
+      <creation id="il-saggiatore-creation-bernard-andreae">
+        <timespan id="il-saggiatore-creation-bernard-andreae-ts">
+          <label>1989</label>
+          <begin>1989-01-01T00:00:00</begin>
+          <end>1989-12-31T23:59:59</end>
+        </timespan>
+      </creation>
+      <note>"Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</note>
+    </work>
+    <event id="ed4218067a94" source_field="BIOGRAPHY" detected_by="rule">
+      <type id="excavation">Excavation</type>
+      <label>Excavation at Baiae excavations – Bernard Andreae</label>
+      <place id="baiae-excavations">Baiae excavations</place>
+      <participants>
+        <participant id="hadrian">
+          <name>Hadrian</name>
+        </participant>
+      </participants>
+      <note>This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</note>
+    </event>
+    <occupation id="scientific-director">Scientific director</occupation>
+    <work id="thesis" source_field="BIOGRAPHY">
+      <title>thesis</title>
+      <note>Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</note>
+    </work>
+    <work id="studien-zur-roemischen-grabkunst" source_field="BIOGRAPHY">
+      <title>Studien zur roemischen Grabkunst</title>
+      <note>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</note>
+    </work>
+    <work id="odysseus" source_field="BIOGRAPHY">
+      <title>Odysseus</title>
+      <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.</note>
+    </work>
+    <work id="archaologie-des-europaischen-mythos" source_field="BIOGRAPHY">
+      <title>Archäologie des europäischen Mythos</title>
+      <note>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.</note>
+    </work>
+    <work id="laokoon-und-die-grundung-roms" source_field="BIOGRAPHY">
+      <title>Laokoon und die Gründung Roms</title>
+      <note>Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans.</note>
+    </work>
+    <work id="die-antiken-sarkophagreliefs" source_field="BIOGRAPHY">
+      <title>Die antiken Sarkophagreliefs</title>
+      <note>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.</note>
+    </work>
+    <work id="die-romischen-jagdsarkophage" source_field="BIOGRAPHY">
+      <title>Die römischen Jagdsarkophage</title>
+      <note>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.</note>
+    </work>
+  </record>
+</root>
