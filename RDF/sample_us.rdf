@@ -1,0 +1,293 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crmarchaeo="http://www.cidoc-crm.org/extensions/crmarchaeo/"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmgeo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:lynx="http://www.lynx.com/resource/"
+    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:crmdig="http://www.ics.forth.gr/isl/CRMdig/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041">
+    <rdfs:label>1041</rdfs:label>
+    <crm:P130_shows_features_of>
+      <crmsci:S9_Property_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/consistenza/Sabbiosa%20molto%20compatta">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/consistenza"/>
+        </crm:P2_has_type>
+        <rdfs:label>Sabbiosa molto compatta</rdfs:label>
+      </crmsci:S9_Property_Type>
+    </crm:P130_shows_features_of>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/componenti-inorganici/Laterizio">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/componenti-inorganici"/>
+        </crm:P2_has_type>
+        <rdfs:label>Laterizio</rdfs:label>
+      </crm:E18_Physical_Thing>
+    </crmarchaeo:AP21_contains>
+    <crm:P130_shows_features_of>
+      <crmsci:S9_Property_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/criteri-distinzione/Composizione">
+        <rdfs:label>Composizione</rdfs:label>
+      </crmsci:S9_Property_Type>
+    </crm:P130_shows_features_of>
+    <crmarchaeo:AP7i_was_produced_by>
+      <crmarchaeo:A4_Stratigraphic_Genesis rdf:about="urn:uuid:cd7a2dcb-3488-485a-abc6-82d68a514819">
+        <crm:P9i_forms_part_of>
+          <crm:E7_Activity rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/periodizzazione/attivita/TEST">
+            <crm:P9i_forms_part_of>
+              <crm:E5_Event rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/periodizzazione-fase/TEST">
+                <crm:P9i_forms_part_of>
+                  <crm:E4_Period rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/periodizzazione-periodo/TEST">
+                    <rdfs:label>TEST</rdfs:label>
+                  </crm:E4_Period>
+                </crm:P9i_forms_part_of>
+                <rdfs:label>TEST</rdfs:label>
+              </crm:E5_Event>
+            </crm:P9i_forms_part_of>
+            <rdfs:label>TEST</rdfs:label>
+          </crm:E7_Activity>
+        </crm:P9i_forms_part_of>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/datazione/TEST">
+            <crm:P2_has_type>datazione</crm:P2_has_type>
+            <rdfs:label>TEST</rdfs:label>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+      </crmarchaeo:A4_Stratigraphic_Genesis>
+    </crmarchaeo:AP7i_was_produced_by>
+    <crm:P138i_has_representation>
+      <crm:E36_Visual_Item rdf:about="urn:uuid:65900900-94f1-4972-8a70-ab53741cdee4"/>
+    </crm:P138i_has_representation>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object rdf:about="urn:uuid:87d9055b-f9bd-4def-ae63-20aa32d1ee90">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/interpretazione"/>
+        </crm:P2_has_type>
+        <rdfs:label>strato di riempimento moderno successivo allo sradicamento dei pini</rdfs:label>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier rdf:about="http://www.lynx.com/resource/us-number"/>
+    </crm:P1_is_identified_by>
+    <crm:P67i_is_referred_to_by>
+      <crmdig:D1_Digital_Object rdf:about="urn:uuid:638a062e-a151-4b11-921b-d16fd8e11740"/>
+    </crm:P67i_is_referred_to_by>
+    <crmsci:O24i_was_measured_by>
+      <crmsci:S21_Measurement rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/quote/cfr.%20GIS">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/quote"/>
+        </crm:P2_has_type>
+        <rdfs:label>cfr. GIS</rdfs:label>
+      </crmsci:S21_Measurement>
+    </crmsci:O24i_was_measured_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object rdf:about="urn:uuid:380841d4-bc5f-4316-b7bd-ccd0f5399749">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/descrizione"/>
+        </crm:P2_has_type>
+        <rdfs:label>Strato di terra a matrice sabbiosa compatta di colore arancione scuro, localizzata nel settore E dell'ampliamento S del SAS 1, restituisce laterizi, malta, intonaco ed elementi litici</rdfs:label>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crmgeo:Q11i_is_approximated_by>
+      <crmgeo:SP6_Declarative_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/misure/TEST">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/misure-us"/>
+        </crm:P2_has_type>
+        <rdfs:label>TEST</rdfs:label>
+      </crmgeo:SP6_Declarative_Place>
+    </crmgeo:Q11i_is_approximated_by>
+    <crm:P138i_has_representation>
+      <crm:E36_Visual_Item rdf:about="urn:uuid:a055436a-7e65-48d8-9e55-f84b8a9a0dfa"/>
+    </crm:P138i_has_representation>
+    <crmarchaeo:AP21_contains>
+      <crm:E20_Biological_Object rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/componenti-organici/TEST">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/componenti-organici"/>
+        </crm:P2_has_type>
+        <rdfs:label>TEST</rdfs:label>
+      </crm:E20_Biological_Object>
+    </crmarchaeo:AP21_contains>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/componenti-inorganici/Intonaco">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/componenti-inorganici"/>
+        <rdfs:label>Intonaco</rdfs:label>
+      </crm:E18_Physical_Thing>
+    </crmarchaeo:AP21_contains>
+    <crm:P130_shows_features_of>
+      <crmsci:S9_Property_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/criteri-distinzione/Consistenza">
+        <rdfs:label>Consistenza</rdfs:label>
+      </crmsci:S9_Property_Type>
+    </crm:P130_shows_features_of>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object rdf:about="urn:uuid:4cba41db-9a23-4c63-a22a-3a48a727a307">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/definizione"/>
+        </crm:P2_has_type>
+        <rdfs:label>US positiva localizzata nel settore E dell'ampliamento S del saggio</rdfs:label>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/global-identifier/1">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/global-id"/>
+        </crm:P2_has_type>
+        <rdfs:label>1</rdfs:label>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/componenti-inorganici/Malta">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/componenti-inorganici"/>
+        <rdfs:label>Malta</rdfs:label>
+      </crm:E18_Physical_Thing>
+    </crmarchaeo:AP21_contains>
+    <crm:P44_has_condition>
+      <crm:E3_Condition_State rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/stato-conservazione/Parziale">
+        <rdfs:label>Parziale</rdfs:label>
+      </crm:E3_Condition_State>
+    </crm:P44_has_condition>
+    <crm:P136i_supported_type_creation>
+      <crm:E83_Type_Creation rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/modo-di-formazione/Antropico%20sincronico">
+        <rdfs:label>Antropico sincronico</rdfs:label>
+      </crm:E83_Type_Creation>
+    </crm:P136i_supported_type_creation>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="urn:uuid:4ee3b68f-1005-450d-9dc1-3cbfd6feae08"/>
+    </crmarchaeo:AP21_contains>
+    <crm:P105_right_held_by>
+      <crm:E74_Group rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/ente-responsabile/TESTB0989FA6-9E92-4F28-BC9F-EC21A7EB31F5"/>
+    </crm:P105_right_held_by>
+    <crm:P105_right_held_by>
+      <crm:E74_Group rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/ente-competente/TEST">
+        <rdfs:label>TEST</rdfs:label>
+      </crm:E74_Group>
+    </crm:P105_right_held_by>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/elementi-datanti/TEST">
+        <rdfs:label>TEST</rdfs:label>
+      </crm:E18_Physical_Thing>
+    </crmarchaeo:AP21_contains>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object rdf:about="urn:uuid:802480d8-3a14-466c-943e-8845170742fd">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/osservazioni"/>
+        </crm:P2_has_type>
+        <rdfs:label>scavato parzialmente</rdfs:label>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P130_shows_features_of>
+      <crmsci:S9_Property_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/consistenza/Arancione%20scuro">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/colore"/>
+        </crm:P2_has_type>
+        <rdfs:label>Arancione scuro</rdfs:label>
+      </crmsci:S9_Property_Type>
+    </crm:P130_shows_features_of>
+    <crm:P44_has_condition>
+      <crm:E3_Condition_State rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/affidabilita-stratigrafica/TEST">
+        <rdfs:label>TEST</rdfs:label>
+      </crm:E3_Condition_State>
+    </crm:P44_has_condition>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/tipologia/Artificiale">
+        <rdfs:label>Artificiale</rdfs:label>
+      </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P130_shows_features_of>
+      <crmsci:S9_Property_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/criteri-distinzione/Colore">
+        <rdfs:label>Colore</rdfs:label>
+      </crmsci:S9_Property_Type>
+    </crm:P130_shows_features_of>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/tipologia/Positiva">
+        <rdfs:label>Positiva</rdfs:label>
+      </crm:E55_Type>
+    </crm:P2_has_type>
+    <crmarchaeo:AP21_contains>
+      <crm:E18_Physical_Thing rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/componenti-inorganici/Litico">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/componenti-inorganici"/>
+        <rdfs:label>Litico</rdfs:label>
+      </crm:E18_Physical_Thing>
+    </crmarchaeo:AP21_contains>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit"/>
+    </crm:P2_has_type>
+    <crmarchaeo:AP5i_was_partially_or_totally_removed_by>
+      <crmarchaeo:A1_Excavation_Processing_Unit rdf:about="urn:uuid:bfffc222-5755-49eb-9371-c87e5f41fd49">
+        <crm:P7_took_place_at>
+          <crm:E27_Site rdf:about="http://www.lynx.com/resource/cultural-heritage-site/2">
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/sito-archeologico"/>
+            </crm:P2_has_type>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/quadrato/TEST">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/quadrato"/>
+                </crm:P2_has_type>
+                <rdfs:label>TEST</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/settore/TEST">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/settore"/>
+                </crm:P2_has_type>
+                <rdfs:label>TEST</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/posizione/TEST">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/posizione"/>
+                </crm:P2_has_type>
+                <rdfs:label>TEST</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/ambiente-unita-funzionale/TEST">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/ambiente-unita-funzionale"/>
+                </crm:P2_has_type>
+                <rdfs:label>TEST</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/saggio/SAS%201">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/saggio"/>
+                </crm:P2_has_type>
+                <rdfs:label>SAS 1</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/area-struttura/Area%20dellla%20Peschiera">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/area-struttura"/>
+                </crm:P2_has_type>
+                <rdfs:label>Area dellla Peschiera</rdfs:label>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+            <crm:P89_falls_within>
+              <crm:E53_Place rdf:about="http://www.lynx.com/resource/cultural-heritage-place/2">
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/cultural-heritage-place"/>
+                </crm:P2_has_type>
+              </crm:E53_Place>
+            </crm:P89_falls_within>
+          </crm:E27_Site>
+        </crm:P7_took_place_at>
+      </crmarchaeo:A1_Excavation_Processing_Unit>
+    </crmarchaeo:AP5i_was_partially_or_totally_removed_by>
+    <crm:P138i_has_representation>
+      <crm:E36_Visual_Item rdf:about="urn:uuid:690a224e-0564-43e2-a249-e824bd460bbe"/>
+    </crm:P138i_has_representation>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041/tipologia/TEST">
+        <rdfs:label>TEST</rdfs:label>
+      </crm:E55_Type>
+    </crm:P2_has_type>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+</rdf:RDF>

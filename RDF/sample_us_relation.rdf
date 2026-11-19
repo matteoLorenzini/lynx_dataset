@@ -1,0 +1,94 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:crmcsi="http://www.cidoc-crm.org/extensions/crmsci/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:crmarchaeo="http://www.cidoc-crm.org/extensions/crmarchaeo/"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:lynx="http://www.lynx.com/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041">
+    <crm:P120_occurs_before>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1000">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/anteriore-a"/>
+        </crm:P2_has_type>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/coperto-da"/>
+        </crm:P2_has_type>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crm:P120_occurs_before>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0011">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/taglia"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0001">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/uguale-a"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0013">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/riempito-da"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crm:P120i_occurs_after>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-1045">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/posteriore-a"/>
+        </crm:P2_has_type>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/riempie"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crm:P120i_occurs_after>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0005">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/gli-si-appoggia"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crm:P120_occurs_before>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-1031">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/tagliato-da"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crm:P120_occurs_before>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1045"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0007">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/si-appoggia-a"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0003">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/si-lega-a"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/0009">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/copre"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+</rdf:RDF>
