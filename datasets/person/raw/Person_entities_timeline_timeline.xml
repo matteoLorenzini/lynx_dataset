@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+  <person id="bernard-andreae">
+    <unique_id>1000</unique_id>
+    <name>Bernard Andreae</name>
+    <occupation id="scientific-director">Scientific director</occupation>
+    <timeline>
+      <entry id="7f6993f923b2" category="event" source_field="BIOGRAPHY" detected_by="rule">
+        <type id="graduation">Graduation</type>
+        <label>Graduation at Marburg</label>
+        <begin>1956-01-01</begin>
+        <end>1956-12-31</end>
+        <date_label>1956</date_label>
+        <place id="marburg">Marburg</place>
+        <participant id="friedrich-matz" role="teacher">Friedrich Matz</participant>
+        <source_text>Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</source_text>
+      </entry>
+      <entry id="29b8bb68a33a" category="role" source_field="BIOGRAPHY">
+        <type id="assistant">Assistant</type>
+        <label>Assistant at German Archaeological Institute, Italy</label>
+        <begin>1956-01-01</begin>
+        <end>1959-12-31</end>
+        <date_label>1956–1959</date_label>
+        <place id="italy">Italy</place>
+        <organization id="german-archaeological-institute">German Archaeological Institute</organization>
+        <source_text>From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.</source_text>
+      </entry>
+      <entry id="b612444a4e19" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Studien zur roemischen Grabkunst</label>
+        <begin>1962-01-01</begin>
+        <end>1962-12-31</end>
+        <date_label>1962</date_label>
+        <source_text>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</source_text>
+      </entry>
+      <entry id="0080a85712c3" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Esquiline fresco cycle</label>
+        <begin>1962-01-01</begin>
+        <end>1962-12-31</end>
+        <date_label>1962</date_label>
+        <source_text>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</source_text>
+      </entry>
+      <entry id="14a5ca5d7052" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Aldobrandini Wedding</label>
+        <begin>1962-01-01</begin>
+        <end>1962-12-31</end>
+        <date_label>1962</date_label>
+        <source_text>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</source_text>
+      </entry>
+      <entry id="371c340be361" category="event" source_field="BIOGRAPHY" detected_by="rule">
+        <type id="habilitation">Habilitation</type>
+        <label>Habilitation at Bonn</label>
+        <begin>1962-01-01</begin>
+        <end>1962-12-31</end>
+        <date_label>1962</date_label>
+        <place id="bonn">Bonn</place>
+        <participant id="friedrich-matz" role="mentor">Friedrich Matz</participant>
+        <participant id="reinhard-herbig" role="mentor">Reinhard Herbig</participant>
+        <participant id="ernst-langlotz" role="mentor">Ernst Langlotz</participant>
+        <source_text>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</source_text>
+      </entry>
+      <entry id="3e33f24b2bdc" category="role" source_field="BIOGRAPHY ROLE">
+        <type id="professor">Professor</type>
+        <label>Professor at Bochum</label>
+        <begin>1965-01-01</begin>
+        <end>1977-12-31</end>
+        <date_label>1965–1977</date_label>
+        <place id="bochum">Bochum</place>
+        <source_text>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</source_text>
+      </entry>
+      <entry id="74bdd2bdc95c" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>AD sarcophagi</label>
+        <begin>1970-01-01</begin>
+        <end>1970-12-31</end>
+        <date_label>1970</date_label>
+        <source_text>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</source_text>
+      </entry>
+      <entry id="084a041899e5" category="event" source_field="BIOGRAPHY CONTRIBUTION" detected_by="rule">
+        <type id="excavation">Excavation</type>
+        <label>Excavation at Tiberius's Villa in Sperlonga</label>
+        <begin>1970-01-01</begin>
+        <end>1989-12-31</end>
+        <date_label>1970–1989</date_label>
+        <place id="tiberius-s-villa-in-sperlonga">Tiberius's Villa in Sperlonga</place>
+        <organization id="rome-soprintendenza">Rome Soprintendenza</organization>
+        <source_text>In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</source_text>
+      </entry>
+      <entry id="ea0859397a6a" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Alexander Mosaic</label>
+        <begin>1977-01-01</begin>
+        <end>1977-12-31</end>
+        <date_label>1977</date_label>
+        <source_text>His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</source_text>
+      </entry>
+      <entry id="d147c1842844" category="role" source_field="BIOGRAPHY ROLE">
+        <type id="professor">Professor</type>
+        <label>Professor at Marburg</label>
+        <begin>1978-01-01</begin>
+        <end>1985-12-31</end>
+        <date_label>1978–1985</date_label>
+        <place id="marburg">Marburg</place>
+        <source_text>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</source_text>
+      </entry>
+      <entry id="492e0f3a4765" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Odysseus: Archäologie des europäischen Mythos</label>
+        <begin>1982-01-01</begin>
+        <end>1982-12-31</end>
+        <date_label>1982</date_label>
+        <source_text>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</source_text>
+      </entry>
+      <entry id="605b727c6cc8" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>L’immagine di Ulisse</label>
+        <begin>1983-01-01</begin>
+        <end>1983-12-31</end>
+        <date_label>1983</date_label>
+        <source_text>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</source_text>
+      </entry>
+      <entry id="406ea580e827" category="role" source_field="BIOGRAPHY">
+        <type id="professor">Professor</type>
+        <label>Professor at German Archaeological Institute, Rome</label>
+        <begin>1984-01-01</begin>
+        <end>1995-12-31</end>
+        <date_label>1984–1995</date_label>
+        <place id="rome">Rome</place>
+        <organization id="german-archaeological-institute">German Archaeological Institute</organization>
+        <source_text>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</source_text>
+      </entry>
+      <entry id="c0079acabdfe" category="role" source_field="ROLE">
+        <type id="director">Director</type>
+        <label>Director at German Archaeological Institute, Rome</label>
+        <begin>1984-01-01</begin>
+        <end>1995-12-31</end>
+        <date_label>1984–1995</date_label>
+        <place id="rome">Rome</place>
+        <organization id="german-archaeological-institute">German Archaeological Institute</organization>
+        <source_text>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</source_text>
+      </entry>
+      <entry id="b648a5fcd724" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Laokoon und die Gründung Roms</label>
+        <begin>1988-01-01</begin>
+        <end>1988-12-31</end>
+        <date_label>1988</date_label>
+        <source_text>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</source_text>
+      </entry>
+      <entry id="5ab44785ed44" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Laocoonte e la fondazione di Roma</label>
+        <begin>1989-01-01</begin>
+        <end>1989-12-31</end>
+        <date_label>1989</date_label>
+        <source_text>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</source_text>
+      </entry>
+      <entry id="c47679359c46" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Die antiken Sarkophagreliefs</label>
+        <source_text>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</source_text>
+      </entry>
+      <entry id="bffb615df6f6" category="work" source_field="BIOGRAPHY">
+        <type id="publication">Publication</type>
+        <label>Die römischen Jagdsarkophage</label>
+        <source_text>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</source_text>
+      </entry>
+      <entry id="babe2ba4cbdd" category="event" source_field="BIOGRAPHY" detected_by="rule">
+        <type id="excavation">Excavation</type>
+        <label>Excavation at Baiae</label>
+        <place id="baiae">Baiae</place>
+        <source_text>This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</source_text>
+      </entry>
+    </timeline>
+  </person>
+</persons>

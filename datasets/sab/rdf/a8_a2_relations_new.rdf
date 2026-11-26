@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:lynx="http://www.lynx.com/resource/"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:crmcsi="http://www.cidoc-crm.org/extensions/crmsci/"
+    xmlns:crmarchaeo="http://www.cidoc-crm.org/extensions/crmarchaeo/">
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1064">
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1065">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/copre"/>
+        </crm:P2_has_type>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/anteriore-a"/>
+        </crm:P2_has_type>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/uguale-a"/>
+        </crm:P2_has_type>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1000">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/coperto-da"/>
+            </crm:P2_has_type>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/posteriore-a"/>
+            </crm:P2_has_type>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1087">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1070">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/riempito-da"/>
+            </crm:P2_has_type>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1086">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/taglia"/>
+                </crm:P2_has_type>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/uguale-a"/>
+                <crmarchaeo:AP11_has_physical_relation_to>
+                  <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1035">
+                    <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/uguale-a"/>
+                  </crmarchaeo:A8_Stratigraphic_Unit>
+                </crmarchaeo:AP11_has_physical_relation_to>
+                <crmarchaeo:AP11i_is_physical_relation_from>
+                  <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-1031">
+                    <crm:P2_has_type>
+                      <crm:E55_Type rdf:about="http://www.lynx.com/resource/tagliato-da"/>
+                    </crm:P2_has_type>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+                  </crmarchaeo:A8_Stratigraphic_Unit>
+                </crmarchaeo:AP11i_is_physical_relation_from>
+                <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+              </crmarchaeo:A8_Stratigraphic_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1078">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1071">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://www.lynx.com/resource/si-appoggia-a"/>
+                </crm:P2_has_type>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11i_is_physical_relation_from>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1080">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+                <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+                <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11i_is_physical_relation_from>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1071"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1080"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1079">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1072">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1072"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1079"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1070"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1079"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1076">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1070"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1079"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1070"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1047">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1032">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1050">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/uguale-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1068">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempito-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1081">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1082">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crmarchaeo:AP11_has_physical_relation_to>
+                  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1016">
+                    <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+                    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+                </crmarchaeo:AP11_has_physical_relation_to>
+                <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+                <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1016"/>
+                <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1082"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1082"/>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1090">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1048">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1048"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1081"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1082"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1068"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1055">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/uguale-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1069">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempito-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1085">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+                <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+                <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+                <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+                <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+                <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+                <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+              </crmarchaeo:A8_Stratigraphic_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1077">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to>
+              <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1053">
+                <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+              </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+            </crmarchaeo:AP11_has_physical_relation_to>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1053"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+        <crm:P120i_occurs_after>
+          <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1090.%201077">
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+          </crmarchaeo:A8_Stratigraphic_Unit>
+        </crm:P120i_occurs_after>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1069"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1065"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1075">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/uguale-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1083">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempito-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before>
+              <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-%201058">
+                <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+              </crmarchaeo:A8_Stratigraphic_Unit>
+            </crm:P120_occurs_before>
+          </crmarchaeo:A8_Stratigraphic_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1083"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1079"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1080"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1050"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1055"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1065"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1075"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1079"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1080"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1087"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-1058">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1059">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempito-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1074">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1075"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1083"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1083"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1083"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1056">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1057">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1057"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1066">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1067">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1078"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+          </crmarchaeo:A8_Stratigraphic_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1067"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1067"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1056"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1066"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1067"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1074"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1076"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1086"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1059"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1052">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1051">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1053"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1051"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1053"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/-1045">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1041">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/-1031"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempito-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1046">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A2_Stratigraphic_Volume_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/taglia"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+        <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1049">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1050"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1081"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1068"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1032"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1081"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1068"/>
+            <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1049"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1056"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1046"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1056"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1041"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1063">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1062">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1072"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1062"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1072"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1088">
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1001">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/si-appoggia-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1089">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1033">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1001"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1089"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1033"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1054">
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1055"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1090"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1085"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1056"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1057"/>
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1069"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1077"/>
+    <crm:P120i_occurs_after>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1090.%201085">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crm:P120i_occurs_after>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1069"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1056"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1057"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1035"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1061">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1060">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1071"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1060"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1071"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1073">
+    <crmarchaeo:AP11i_is_physical_relation_from rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1000"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1084">
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1023">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1021">
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/riempie"/>
+        </crm:P2_has_type>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+    <crmarchaeo:AP11_has_physical_relation_to>
+      <crmarchaeo:A8_Stratigraphic_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1022">
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/riempie"/>
+      </crmarchaeo:A8_Stratigraphic_Unit>
+    </crmarchaeo:AP11_has_physical_relation_to>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+  <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1042">
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1029">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11i_is_physical_relation_from>
+      <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1043">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+        <crmarchaeo:AP11i_is_physical_relation_from>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1019">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/coperto-da"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/anteriore-a"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11i_is_physical_relation_from>
+        <crmarchaeo:AP11_has_physical_relation_to>
+          <crmarchaeo:A2_Stratigraphic_Volume_Unit rdf:about="http://www.lynx.com/resource/stratigraphic-unit/1044">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmarchaeo/A8_Stratigraphic_Unit"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/copre"/>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/posteriore-a"/>
+            <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1033"/>
+            <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1033"/>
+          </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+        </crmarchaeo:AP11_has_physical_relation_to>
+        <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1044"/>
+        <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1019"/>
+      </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+    </crmarchaeo:AP11i_is_physical_relation_from>
+    <crmarchaeo:AP11_has_physical_relation_to rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1044"/>
+    <crm:P120i_occurs_after rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1044"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1029"/>
+    <crm:P120_occurs_before rdf:resource="http://www.lynx.com/resource/stratigraphic-unit/1043"/>
+  </crmarchaeo:A2_Stratigraphic_Volume_Unit>
+</rdf:RDF>

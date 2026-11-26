@@ -8,35 +8,23 @@ These datasets document archaeological research promoted by the LYNX research un
 
 ```text
 .
-├── raw_data/
-│   ├── Person/
-│   │   ├── Person.xlsx
-│   │   ├── Person_entities.json
-│   │   └── XML/
-│   │       ├── Person.csv
-│   │       ├── Person.xml
-│   │       ├── Person_entities.xml
-│   │       ├── Person_relations.xml
-│   │       └── Person_sample.xml, Person_relations_sample.xml
-│   ├── Places_and_sites/
-│   │   └── places_and_sites.xml
-│   ├── SAB/
-│   │   └── Schede-US/
-│   │       ├── US_data_SAS1.csv
-│   │       ├── US_data_SAS1.xml
-│   │       ├── US_data_SAS1_relations.xml
-│   │       └── US_data_SAS1_sample.xml, US_data_SAS1_relations_sample.xml
-│   └── SPE/
-│       └── Scheda-Catalogo/
-│           ├── Scheda_Catalogo_-_Scheda_Catalogo.csv
-│           ├── Scheda_Catalogo_-_Scheda_Catalogo.xml
-│           ├── Scheda_Catalogo_-_Scheda_Catalogo_relations.xml
-│           └── Scheda_Catalogo_-_Scheda_Catalogo_sample.xml
-├── RDF/
-│   ├── E18.rdf
-│   ├── E18_relations.rdf
-│   ├── e18_immagini.rdf
-│   └── E53.rdf
+├── datasets/
+│   ├── person/              # scholar biographies
+│   │   ├── raw/             # source exports and entity extractions
+│   │   ├── rdf/             # RDF exports (E21), 3M/ subfolder
+│   │   └── samples/         # reduced excerpts
+│   ├── places_and_sites/    # geographic hierarchy
+│   │   ├── raw/
+│   │   ├── rdf/             # RDF exports (E53), 3M/ subfolder
+│   │   └── samples/
+│   ├── sab/                 # stratigraphic units (SAS 1)
+│   │   ├── raw/
+│   │   ├── rdf/             # RDF exports (A2/A8), 3M/ subfolder
+│   │   └── samples/
+│   └── spe/                 # catalogued objects
+│       ├── raw/
+│       ├── rdf/             # RDF exports (E18), 3M/ subfolder
+│       └── samples/
 └── LICENSE
 ```
 
@@ -46,7 +34,7 @@ Files ending in `_sample.xml` are reduced excerpts of the corresponding full exp
 
 ### Places and sites
 
-`raw_data/Places_and_sites/places_and_sites.xml` contains the geographic hierarchy used by the dataset. Each place entry includes:
+`datasets/places_and_sites/raw/places_and_sites.xml` contains the geographic hierarchy used by the dataset. Each place entry includes:
 
 - a place identifier and name;
 - coordinates for the place;
@@ -57,34 +45,36 @@ The current records include Sabaudia / Villa di Domiziano and Sperlonga / Villa 
 
 ### SAB: stratigraphic units
 
-The `raw_data/SAB/Schede-US/` files describe archaeological stratigraphic units from SAS 1 at the Villa di Domiziano site in Sabaudia.
+The `datasets/sab/` files describe archaeological stratigraphic units from SAS 1 at the Villa di Domiziano site in Sabaudia.
 
 The records include identifiers, excavation context, unit type, materials, physical characteristics, stratigraphic relationships, descriptions, interpretations, dating information, documentation references, and responsible personnel. `US_data_SAS1.csv` provides a tabular export, while `US_data_SAS1.xml` stores the same records as structured XML. The relations XML file contains the corresponding relationship data.
 
 ### SPE: catalogue records
 
-The `raw_data/SPE/Scheda-Catalogo/` files describe catalogued cultural-heritage objects, including marble fragments. Fields cover identifiers, classification, material, dimensions, preservation state, discovery and storage locations, chronology, descriptions, stylistic notes, related objects, analytical data, and photogrammetry.
+The `datasets/spe/` files describe catalogued cultural-heritage objects, including marble fragments. Fields cover identifiers, classification, material, dimensions, preservation state, discovery and storage locations, chronology, descriptions, stylistic notes, related objects, analytical data, and photogrammetry.
 
 `Scheda_Catalogo_-_Scheda_Catalogo.csv` is the tabular export and `Scheda_Catalogo_-_Scheda_Catalogo.xml` is its structured XML counterpart. The relations XML file contains links between catalogue records.
 
 ### Person: scholar biographies
 
-The `raw_data/Person/` files describe the scholars connected to the research, currently Bernard Andreae. Each record has `Unique_ID`, `Name_Surname`, `Birth_place`, `Birth_date`, `Death_place`, `Death_date`, `Biography`, `Role`, and `Contribution` fields (biographical text is in English).
+The `datasets/person/` files describe the scholars connected to the research, currently Bernard Andreae. Each record has `Unique_ID`, `Name_Surname`, `Birth_place`, `Birth_date`, `Death_place`, `Death_date`, `Biography`, `Role`, and `Contribution` fields (biographical text is in English).
 
 - `Person.xlsx`: the original spreadsheet.
-- `XML/Person.csv` and `XML/Person.xml`: tabular and XML exports of the same records.
-- `XML/Person_entities.xml`: entities extracted from the biography, role, and contribution text (persons, places, organizations, roles with start/end years, events, and works). Each entity keeps a `Source` element with the originating row, field, and text excerpt.
+- `raw/XML/Person.csv` and `raw/XML/Person.xml`: tabular and XML exports of the same records.
+- `raw/XML/Person_entities.xml`: entities extracted from the biography, role, and contribution text (persons, places, organizations, roles with start/end years, events, and works). Each entity keeps a `Source` element with the originating row, field, and text excerpt.
 - `Person_entities.json`: the raw entity-extraction output, generated with a language model (`qwen2.5:7b`) and keyed by a hash of the source text. As automatically extracted data, it should be reviewed before being used as authoritative.
-- `XML/Person_relations.xml`: relations between person records; currently empty.
+- `raw/XML/Person_relations.xml`: relations between person records; currently empty.
 
 ### RDF exports
 
-The `RDF/` directory contains RDF/XML exports using namespaces from CIDOC CRM and related extensions:
+Each dataset folder has an `rdf/` directory with RDF/XML exports using namespaces from CIDOC CRM and related extensions. Superseded variants (e.g. `*_new.rdf`) are kept alongside the current files, and `rdf/3M/` holds the 3M exports:
 
-- `E18.rdf`: descriptions of physical cultural-heritage objects, including identifiers, types, materials, dimensions, locations, dates, and other object properties.
-- `E18_relations.rdf`: relationships between physical objects, such as equivalence or composition links.
-- `e18_immagini.rdf`: image documentation for physical objects; each object is linked via `crm:P70i_is_documented_in` to `crm:E31_Document` resources that reference the image file names.
-- `E53.rdf`: descriptions of cultural-heritage places and sites, including names, coordinates, and place/site containment.
+- `spe/rdf/E18.rdf`: descriptions of physical cultural-heritage objects, including identifiers, types, materials, dimensions, locations, dates, and other object properties.
+- `spe/rdf/E18_relations.rdf`: relationships between physical objects, such as equivalence or composition links.
+- `spe/rdf/e18_immagini.rdf`: image documentation for physical objects; each object is linked via `crm:P70i_is_documented_in` to `crm:E31_Document` resources that reference the image file names.
+- `places_and_sites/rdf/E53.rdf`: descriptions of cultural-heritage places and sites, including names, coordinates, and place/site containment.
+- `person/rdf/E21` and `person/rdf/E21_timeline`: person records (`crm:E21_Person`) and their appellations/timelines. These files have no extension in the source and are kept as-is.
+- `sab/rdf/A8_A2_new.rdf` and `sab/rdf/a8_a2_relations_new.rdf`: stratigraphic units (`A2_Stratigraphic_Volume_Unit`, `A8_Stratigraphic_Unit`) and their relations.
 
 The RDF resources use the `http://www.lynx.com/resource/` namespace. Object resources are identified by their catalogue identifiers, while place and site resources are identified by their place or site IDs.
 

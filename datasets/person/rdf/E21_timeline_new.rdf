@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <crm:E21_Person rdf:about="http://www.lynx.com/resource/person/1000">
+    <rdfs:label>Bernard Andreae</rdfs:label>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/person/1000/Bernard%20Andreae">
+        <skos:prefLabel>Bernard Andreae</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/occupation/scientific-director">
+        <rdfs:label>Scientific director</rdfs:label>
+      </crm:E55_Type>
+    </crm:P2_has_type>
+    <crm:P11i_took_part_in>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/7f6993f923b2">
+        <rdfs:label>Graduation at Marburg</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/event/graduation">
+            <rdfs:label>Graduation</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/7f6993f923b2/time-span">
+            <rdfs:label>1956</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1956-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1956-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/5">
+            <rdfs:label>Marburg</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P11_had_participant>
+          <crm:E21_Person rdf:about="http://www.lynx.com/resource/person/by-name/friedrich-matz">
+            <rdfs:label>Friedrich Matz</rdfs:label>
+          </crm:E21_Person>
+        </crm:P11_had_participant>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by rdf:about="http://www.lynx.com/resource/person/1000/timeline/7f6993f923b2/participant/friedrich-matz">
+            <crm:P14.1_in_the_role_of>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/participant-role/teacher">
+                <rdfs:label>teacher</rdfs:label>
+              </crm:E55_Type>
+            </crm:P14.1_in_the_role_of>
+            <crm:P02_has_range rdf:resource="http://www.lynx.com/resource/person/by-name/friedrich-matz"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/7f6993f923b2/source-text">
+            <rdfs:label>Bernard Andreae graduated from Marburg in 1956 under Friedrich Matz, specializing in Roman sarcophagi; his thesis analyzed historical motifs within sarcophagus iconography.</rdfs:label>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/source-text"/>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P11i_took_part_in>
+    <crm:P11i_took_part_in>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/371c340be361">
+        <rdfs:label>Habilitation at Bonn</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/event/habilitation">
+            <rdfs:label>Habilitation</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/371c340be361/time-span">
+            <rdfs:label>1962</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1962-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1962-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/6">
+            <rdfs:label>Bonn</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P11_had_participant rdf:resource="http://www.lynx.com/resource/person/by-name/friedrich-matz"/>
+        <crm:P11_had_participant>
+          <crm:E21_Person rdf:about="http://www.lynx.com/resource/person/by-name/reinhard-herbig">
+            <rdfs:label>Reinhard Herbig</rdfs:label>
+          </crm:E21_Person>
+        </crm:P11_had_participant>
+        <crm:P11_had_participant>
+          <crm:E21_Person rdf:about="http://www.lynx.com/resource/person/by-name/ernst-langlotz">
+            <rdfs:label>Ernst Langlotz</rdfs:label>
+          </crm:E21_Person>
+        </crm:P11_had_participant>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by rdf:about="http://www.lynx.com/resource/person/1000/timeline/371c340be361/participant/friedrich-matz">
+            <crm:P14.1_in_the_role_of>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/participant-role/mentor">
+                <rdfs:label>mentor</rdfs:label>
+              </crm:E55_Type>
+            </crm:P14.1_in_the_role_of>
+            <crm:P02_has_range rdf:resource="http://www.lynx.com/resource/person/by-name/friedrich-matz"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by rdf:about="http://www.lynx.com/resource/person/1000/timeline/371c340be361/participant/reinhard-herbig">
+            <crm:P14.1_in_the_role_of rdf:resource="http://www.lynx.com/resource/type/participant-role/mentor"/>
+            <crm:P02_has_range rdf:resource="http://www.lynx.com/resource/person/by-name/reinhard-herbig"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by rdf:about="http://www.lynx.com/resource/person/1000/timeline/371c340be361/participant/ernst-langlotz">
+            <crm:P14.1_in_the_role_of rdf:resource="http://www.lynx.com/resource/type/participant-role/mentor"/>
+            <crm:P02_has_range rdf:resource="http://www.lynx.com/resource/person/by-name/ernst-langlotz"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/371c340be361/source-text">
+            <rdfs:label>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P11i_took_part_in>
+    <crm:P11i_took_part_in>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/084a041899e5">
+        <rdfs:label>Excavation at Tiberius's Villa in Sperlonga</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/event/excavation">
+            <rdfs:label>Excavation</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/084a041899e5/time-span">
+            <rdfs:label>1970–1989</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1970-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1989-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/site/1">
+            <rdfs:label>Tiberius's Villa in Sperlonga</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P14_carried_out_by>
+          <crm:E74_Group rdf:about="http://www.lynx.com/resource/group/rome-soprintendenza">
+            <rdfs:label>Rome Soprintendenza</rdfs:label>
+          </crm:E74_Group>
+        </crm:P14_carried_out_by>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/084a041899e5/source-text">
+            <rdfs:label>In the 1970s and 1980s, he tracked the Rome Soprintendenza's excavations at Tiberius's Villa in Sperlonga, producing complex reconstructions of the Hellenistic-Roman sculpture groups.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P11i_took_part_in>
+    <crm:P11i_took_part_in>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/babe2ba4cbdd">
+        <rdfs:label>Excavation at Baiae</rdfs:label>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/event/excavation"/>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/9">
+            <rdfs:label>Baiae</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/babe2ba4cbdd/source-text">
+            <rdfs:label>This interest also drove his research at Hadrian's Villa and the Baiae excavations, where he served as scientific director for underwater research.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P11i_took_part_in>
+    <crm:P14i_performed>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/29b8bb68a33a">
+        <rdfs:label>Assistant at German Archaeological Institute, Italy</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/role/assistant">
+            <rdfs:label>Assistant</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/29b8bb68a33a/time-span">
+            <rdfs:label>1956–1959</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1956-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1959-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/4">
+            <rdfs:label>Italy</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P11_had_participant>
+          <crm:E74_Group rdf:about="http://www.lynx.com/resource/group/german-archaeological-institute">
+            <rdfs:label>German Archaeological Institute</rdfs:label>
+          </crm:E74_Group>
+        </crm:P11_had_participant>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/29b8bb68a33a/source-text">
+            <rdfs:label>From 1956 to 1959, he served as Assistant at the German Archaeological Institute in Italy.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/3e33f24b2bdc">
+        <rdfs:label>Professor at Bochum</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/role/professor">
+            <rdfs:label>Professor</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/3e33f24b2bdc/time-span">
+            <rdfs:label>1965–1977</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1965-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1977-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/7">
+            <rdfs:label>Bochum</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/3e33f24b2bdc/source-text">
+            <rdfs:label>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/d147c1842844">
+        <rdfs:label>Professor at Marburg</rdfs:label>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/role/professor"/>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/d147c1842844/time-span">
+            <rdfs:label>1978–1985</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1978-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1985-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at rdf:resource="http://www.lynx.com/resource/place/5"/>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/d147c1842844/source-text">
+            <rdfs:label>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/c0079acabdfe">
+        <rdfs:label>Director at German Archaeological Institute, Rome</rdfs:label>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/role/director">
+            <rdfs:label>Director</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/c0079acabdfe/time-span">
+            <rdfs:label>1984–1995</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1984-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1995-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at>
+          <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/8">
+            <rdfs:label>Rome</rdfs:label>
+          </crm:E53_Place>
+        </crm:P7_took_place_at>
+        <crm:P11_had_participant rdf:resource="http://www.lynx.com/resource/group/german-archaeological-institute"/>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/c0079acabdfe/source-text">
+            <rdfs:label>Archeologist, professor at Bochum (1965-1977) and Marburg (1978-1985), and then Director of the German Archaeological Institute in Rome (1984-1995).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E7_Activity rdf:about="http://www.lynx.com/resource/person/1000/activity/406ea580e827">
+        <rdfs:label>Professor at German Archaeological Institute, Rome</rdfs:label>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/role/professor"/>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/406ea580e827/time-span">
+            <rdfs:label>1984–1995</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1984-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1995-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P7_took_place_at rdf:resource="http://www.lynx.com/resource/place/8"/>
+        <crm:P11_had_participant rdf:resource="http://www.lynx.com/resource/group/german-archaeological-institute"/>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/406ea580e827/source-text">
+            <rdfs:label>This work absorbed him during his tenure as professor at Bochum (1965-1977) and Marburg (from 1978), until his appointment as Director of the German Archaeological Institute in Rome in 1984 (until 1995).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E7_Activity>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/b612444a4e19">
+        <rdfs:label>Studien zur roemischen Grabkunst</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/b612444a4e19">
+            <rdfs:label>Studien zur roemischen Grabkunst</rdfs:label>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://www.lynx.com/resource/type/work/publication">
+                <rdfs:label>Publication</rdfs:label>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/b612444a4e19/time-span">
+            <rdfs:label>1962</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1962-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1962-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/b612444a4e19/source-text">
+            <rdfs:label>In 1962, he completed his habilitation in Bonn with a monograph on Roman funerary art ("Studien zur roemischen Grabkunst"), dedicated to his mentors Friedrich Matz, Reinhard Herbig, and Ernst Langlotz.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/0080a85712c3">
+        <rdfs:label>Esquiline fresco cycle</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/0080a85712c3">
+            <rdfs:label>Esquiline fresco cycle</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/0080a85712c3/time-span">
+            <rdfs:label>1962</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1962-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1962-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/0080a85712c3/source-text">
+            <rdfs:label>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/14a5ca5d7052">
+        <rdfs:label>Aldobrandini Wedding</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/14a5ca5d7052">
+            <rdfs:label>Aldobrandini Wedding</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/14a5ca5d7052/time-span">
+            <rdfs:label>1962</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1962-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1962-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/14a5ca5d7052/source-text">
+            <rdfs:label>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/74bdd2bdc95c">
+        <rdfs:label>AD sarcophagi</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/74bdd2bdc95c">
+            <rdfs:label>AD sarcophagi</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/74bdd2bdc95c/time-span">
+            <rdfs:label>1970</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1970-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1970-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/74bdd2bdc95c/source-text">
+            <rdfs:label>Between 1960 and 1970, he published studies on painting and sculpture, including the Esquiline fresco cycle (1962), the Aldobrandini Wedding (1962), and imitation vs. originality in 3rd-century AD sarcophagi (1970).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/ea0859397a6a">
+        <rdfs:label>Alexander Mosaic</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/ea0859397a6a">
+            <rdfs:label>Alexander Mosaic</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/ea0859397a6a/time-span">
+            <rdfs:label>1977</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1977-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1977-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/ea0859397a6a/source-text">
+            <rdfs:label>His contributions to Neue Forschungen in Pompeji (1974) and a new edition of the Alexander Mosaic (1977) reflect his focus on Roman painting and Late Republican/Early Imperial classicism.</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/492e0f3a4765">
+        <rdfs:label>Odysseus: Archäologie des europäischen Mythos</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/492e0f3a4765">
+            <rdfs:label>Odysseus: Archäologie des europäischen Mythos</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/492e0f3a4765/time-span">
+            <rdfs:label>1982</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1982-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1982-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/492e0f3a4765/source-text">
+            <rdfs:label>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/605b727c6cc8">
+        <rdfs:label>L’immagine di Ulisse</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/605b727c6cc8">
+            <rdfs:label>L’immagine di Ulisse</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/605b727c6cc8/time-span">
+            <rdfs:label>1983</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1983-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1983-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/605b727c6cc8/source-text">
+            <rdfs:label>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/b648a5fcd724">
+        <rdfs:label>Laokoon und die Gründung Roms</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/b648a5fcd724">
+            <rdfs:label>Laokoon und die Gründung Roms</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/b648a5fcd724/time-span">
+            <rdfs:label>1988</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1988-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1988-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/b648a5fcd724/source-text">
+            <rdfs:label>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/5ab44785ed44">
+        <rdfs:label>Laocoonte e la fondazione di Roma</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/5ab44785ed44">
+            <rdfs:label>Laocoonte e la fondazione di Roma</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span rdf:about="http://www.lynx.com/resource/person/1000/timeline/5ab44785ed44/time-span">
+            <rdfs:label>1989</rdfs:label>
+            <crm:P82a_begin_of_the_begin>1989-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end>1989-12-31</crm:P82b_end_of_the_end>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/5ab44785ed44/source-text">
+            <rdfs:label>On these themes, he published "Odysseus: Archäologie des europäischen Mythos" (1982: https://archive.org/details/laokoonunddiegru0000andr/page/n5/mode/2up ; Italian trans. "L’immagine di Ulisse", Einaudi 1983, trans. Giorgio Bejor), illustrating the mythic-cultural meaning of the Sperlonga group, and "Laokoon und die Gründung Roms" (1988; Italian trans. "Laocoonte e la fondazione di Roma", Il Saggiatore 1989).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/c47679359c46">
+        <rdfs:label>Die antiken Sarkophagreliefs</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/c47679359c46">
+            <rdfs:label>Die antiken Sarkophagreliefs</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/c47679359c46/source-text">
+            <rdfs:label>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+    <crm:P14i_performed>
+      <crm:E65_Creation rdf:about="http://www.lynx.com/resource/person/1000/creation/bffb615df6f6">
+        <rdfs:label>Die römischen Jagdsarkophage</rdfs:label>
+        <crm:P94_has_created>
+          <crm:E73_Information_Object rdf:about="http://www.lynx.com/resource/work/bffb615df6f6">
+            <rdfs:label>Die römischen Jagdsarkophage</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/type/work/publication"/>
+          </crm:E73_Information_Object>
+        </crm:P94_has_created>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object rdf:about="http://www.lynx.com/resource/person/1000/timeline/bffb615df6f6/source-text">
+            <rdfs:label>Since 1974, he has edited the Roman sarcophagi corpus "Die antiken Sarkophagreliefs", authoring the 1980 volume on hunting scenes ("Die römischen Jagdsarkophage": https://digi.ub.uni-heidelberg.de/diglit/asr1_2 ).</rdfs:label>
+            <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/source-text"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </crm:E65_Creation>
+    </crm:P14i_performed>
+  </crm:E21_Person>
+</rdf:RDF>

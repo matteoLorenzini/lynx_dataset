@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:geo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:geosparql="http://www.opengis.net/ont/geosparql#"
+    xmlns:lynx="http://www.lynx.com/resource/"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/1">
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://www.lynx.com/resource/place/place"/>
+    </crm:P2_has_type>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/1/Sperlonga">
+        <skos:prefLabel>Sperlonga</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(13.43351 41.25837)</crm:P168_place_is_defined_by>
+    <crm:P89_falls_within>
+      <crm:E53_Place rdf:about="http://www.lynx.com/resource/site/1">
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/site/1/1/Villa%20di%20Tiberio">
+            <rdfs:label>Villa di Tiberio</rdfs:label>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/site/1/Tiberius%27s%20Villa%20in%20Sperlonga">
+            <skos:prefLabel xml:lang="en">Tiberius's Villa in Sperlonga</skos:prefLabel>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/site/1/Villa%20di%20Tiberio%20a%20Sperlonga">
+            <skos:prefLabel xml:lang="it">Villa di Tiberio a Sperlonga</skos:prefLabel>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P168_place_is_defined_by>POINT(13.45011 41.251064)</crm:P168_place_is_defined_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://www.lynx.com/resource/place/site"/>
+        </crm:P2_has_type>
+      </crm:E53_Place>
+    </crm:P89_falls_within>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/8">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/8/Rome">
+        <skos:prefLabel xml:lang="en">Rome</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/8/Roma">
+        <skos:prefLabel xml:lang="it">Roma</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(12.51133 41.89193)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/4">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/4/Italy">
+        <skos:prefLabel xml:lang="en">Italy</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/4/Italia">
+        <skos:prefLabel xml:lang="it">Italia</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(12.83333 42.83333)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/7">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/7/Bochum">
+        <skos:prefLabel xml:lang="en">Bochum</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(7.21648 51.48165)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/5">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/5/Marburg">
+        <skos:prefLabel xml:lang="en">Marburg</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(8.77069 50.80904)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/3">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/3/Graz">
+        <skos:prefLabel>Graz</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(15.43950 47.07070)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/2">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/2/Sabaudia">
+        <skos:prefLabel>Sabaudia</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(13.02802 41.30023)</crm:P168_place_is_defined_by>
+    <crm:P89_falls_within>
+      <crm:E53_Place rdf:about="http://www.lynx.com/resource/site/2">
+        <crm:P1_is_identified_by>
+          <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/site/2/2/Villa%20di%20Domiziano">
+            <rdfs:label>Villa di Domiziano</rdfs:label>
+          </crm:E41_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P168_place_is_defined_by>POINT(13.04268 41.26553)</crm:P168_place_is_defined_by>
+        <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/site"/>
+      </crm:E53_Place>
+    </crm:P89_falls_within>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/6">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/6/Bonn">
+        <skos:prefLabel xml:lang="en">Bonn</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(7.09549 50.73438)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+  <crm:E53_Place rdf:about="http://www.lynx.com/resource/place/9">
+    <crm:P2_has_type rdf:resource="http://www.lynx.com/resource/place/place"/>
+    <crm:P1_is_identified_by>
+      <crm:E41_Appellation rdf:about="http://www.lynx.com/resource/place/9/Baiae">
+        <skos:prefLabel xml:lang="en">Baiae</skos:prefLabel>
+      </crm:E41_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P168_place_is_defined_by>POINT(14.06667 40.81667)</crm:P168_place_is_defined_by>
+  </crm:E53_Place>
+</rdf:RDF>
